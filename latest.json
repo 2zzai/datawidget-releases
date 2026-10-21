@@ -1,10 +1,10 @@
 {
-  "versionCode": 107,
-  "versionName": "1.7",
-  "tag": "v1.7",
-  "notes": "데이터 위젯 1.7 (v1.7)\n\n- chore: 버전 자동 증가 (1.6 → 1.7)\n- chore: RELEASES_TOKEN 등록 완료 기록 (CI 자동 게시 활성화)\n- chore: 버전 자동 증가 (1.5 → 1.6)\n- 위젯 진단 기록(성공/오류) 추가 + 4x1 initialLayout 원복\n- chore: 버전 자동 증가 (1.4 → 1.5)\n- LoginActivity: android.content.Intent import 누락 수정\n- chore: 버전 자동 증가 (1.3 → 1.4)\n- chore: 버전 자동 증가 (1.2 → 1.3)\n- gradlew 실행비트(100755) 추적\n- gradlew 실행비트 추적 + CI 버전 증가 시 core.fileMode=false 처리\n- 버전 자동 증가 도입: appVersionName 단일 원본 + CI patch bump + versionCode 파생\n- AGENTS.md 중복 행 정리\n- 로그인 버튼을 설정으로 이동 + 위젯 crash-proof(예외보호/오류표시/비트맵예산/placeholder) + 웹뷰 외부앱 scheme 허용\n- 매니페스트 조회를 contents API 로 변경(raw CDN 캐시 회피) + APK 파일명 해시 적용\n- 업데이트 조회 방식을 latest.json(공개 저장소) 우선으로 변경 + 워크플로 게시 단계 continue-on-error\n- 빌드 실패 원인 수정: testInstrumentationRunner 오타 / Int 범위 초과 색상값\n- Gradle 서명키 프로퍼티 파싱 오류 수정 + 작업 규칙(AGENTS.md) 추가\n- 고정 서명 키 도입 + 인앱 업데이트 기능(확인/다운로드/설치) + 릴리스 게시 워크플로\n- 1x1 위젯 3종 스타일 추가 (링/세로바/타이포) + 통화량 표시\n- 1x1 위젯 스타일 3안 시안 추가 (링/세로바/타이포) - 적용 전 시안",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.7-6dbcc059.apk",
+  "versionCode": 108,
+  "versionName": "1.8",
+  "tag": "v1.8",
+  "notes": "데이터 위젯 1.8 (v1.8)\n\n- chore: 버전 자동 증가 (1.7 → 1.8)\n- 위젯 진단: 시스템이 인식하는 위젯 provider 목록 표시 추가\n- chore: 버전 자동 증가 (1.6 → 1.7)\n- chore: RELEASES_TOKEN 등록 완료 기록 (CI 자동 게시 활성화)\n- chore: 버전 자동 증가 (1.5 → 1.6)\n- 위젯 진단 기록(성공/오류) 추가 + 4x1 initialLayout 원복\n- chore: 버전 자동 증가 (1.4 → 1.5)\n- LoginActivity: android.content.Intent import 누락 수정\n- chore: 버전 자동 증가 (1.3 → 1.4)\n- chore: 버전 자동 증가 (1.2 → 1.3)\n- gradlew 실행비트(100755) 추적\n- gradlew 실행비트 추적 + CI 버전 증가 시 core.fileMode=false 처리\n- 버전 자동 증가 도입: appVersionName 단일 원본 + CI patch bump + versionCode 파생\n- AGENTS.md 중복 행 정리\n- 로그인 버튼을 설정으로 이동 + 위젯 crash-proof(예외보호/오류표시/비트맵예산/placeholder) + 웹뷰 외부앱 scheme 허용\n- 매니페스트 조회를 contents API 로 변경(raw CDN 캐시 회피) + APK 파일명 해시 적용\n- 업데이트 조회 방식을 latest.json(공개 저장소) 우선으로 변경 + 워크플로 게시 단계 continue-on-error\n- 빌드 실패 원인 수정: testInstrumentationRunner 오타 / Int 범위 초과 색상값\n- Gradle 서명키 프로퍼티 파싱 오류 수정 + 작업 규칙(AGENTS.md) 추가\n- 고정 서명 키 도입 + 인앱 업데이트 기능(확인/다운로드/설치) + 릴리스 게시 워크플로",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.8-1ed36c0b.apk",
   "apkSize": 20033673,
-  "sha256": "6dbcc05941ff8e9df86f3dc1caab5e58282e36622d8fd92270e12379ac251e46",
-  "publishedAt": "2026-10-21T08:40:38.568825Z"
+  "sha256": "1ed36c0b007a3b4af9c092c4e389eb7ec3ff3e0e0d37a289b0d11a222b100d38",
+  "publishedAt": "2026-10-21T09:01:22.086361Z"
 }
