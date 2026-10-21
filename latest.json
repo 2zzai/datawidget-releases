@@ -1,10 +1,10 @@
 {
-  "versionCode": 105,
-  "versionName": "1.5",
-  "tag": "v1.5",
-  "notes": "데이터 위젯 1.5 (v1.5)\n\n- 로그인 버튼을 설정 → 계정 항목으로 이동\n- 위젯: provider 예외 보호 / 오류 표시 / 비트맵 크기 제한 / 단순 placeholder 레이아웃\n- 로그인 웹뷰: 카카오·네이버 외부앱 scheme 허용 + 브라우저로 열기 버튼\n- 버전 자동 증가 시스템 도입 (이제부터 push 마다 버전이 자동으로 올라갑니다)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.5-68891297.apk",
+  "versionCode": 106,
+  "versionName": "1.6",
+  "tag": "v1.6",
+  "notes": "데이터 위젯 1.6 (v1.6)\n\n- 위젯 진단 표시 추가 (설정 → 위젯 설정 → 위젯 상태)\n  · provider 가 호출됐는지 / 실패했는지 구분 가능\n- 4x1 위젯 초기 레이아웃 원복\n- provider 예외 보호, 비트맵 크기 제한 유지\n\n※ 위젯 추가가 안 되면 폰을 껐다 켠 뒤(런처 상태 초기화) 바탕화면에서 한 번만 추가하세요.",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.6-319aced1.apk",
   "apkSize": 20033673,
-  "sha256": "68891297a13ac924f8f367ef42ce2052941021e2b7ba48690074df82e82acee7",
-  "publishedAt": "2026-10-21T07:56:43.108595Z"
+  "sha256": "319aced130332bd28c6e033650be967fe63049837ca344764edb77450630cf6e",
+  "publishedAt": "2026-10-21T08:27:22.448163Z"
 }
