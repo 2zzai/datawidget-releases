@@ -3,8 +3,8 @@
   "versionName": "1.1",
   "tag": "v2",
   "notes": "데이터 위젯 1.1 (v2)\n\n- 가입 정보에서 entrInfo 원본 상세 행(월 기본료/PASS/스팸차단/발신번호표시/신 구분 등) 표시 제거\n- 1x1 위젯 3종 추가(링형 / 세로바형 / 타이포형) + 통화량 표시 + 설정에서 스타일 선택\n- 배포용 고정 서명 키 도입 (이제부터 앱에서 업데이트 가능)\n- 설정 → 기타 → 업데이트 확인 (앱에서 확인 → 다운로드 → 설치)\n\n※ v2 는 서명 키가 바뀌어 첫 1회만 기존 앱을 삭제 후 재설치 해야 합니다.",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v2-15eeee30.apk",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v2-d4354b21.apk",
   "apkSize": 20033042,
-  "sha256": "15eeee30baf97ab3872f2ac8105076c50ef3eb293efc6a658253ffc78e4d8993",
+  "sha256": "d4354b2106a14757d85b94919eeebb3094272da6399d1f5a7e2f2bf6d4318120",
   "publishedAt": "2026-10-21T05:52:01.189440Z"
 }
