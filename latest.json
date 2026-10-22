@@ -1,10 +1,10 @@
 {
-  "versionCode": 122,
-  "versionName": "1.22",
-  "tag": "v1.22",
-  "notes": "데이터 위젯 1.22 (v1.22)\n\n- chore: 버전 자동 증가 (1.21 → 1.22)\n- fix: 테마 미리보기 안 그려지는 문제 — graphicsLayer 축소 대신 density 축소로 변경\n- docs: 테마 실시간 미리보기 기록 + v1.21 릴리스 완료 + BoxScope import 실수 [skip ci]\n- chore: 버전 자동 증가 (1.20 → 1.21)\n- fix: matchParentSize 는 BoxScope 멤버라 top-level import 불가\n- chore: 버전 자동 증가 (1.19 → 1.20)\n- feat: 테마 선택 화면을 실제 홈 화면 실시간 미리보기로 교체\n- docs: 1x1 크기조절 복원 + 비트맵 예산 상향 기록 [skip ci]\n- chore: 버전 자동 증가 (1.18 → 1.19)\n- feat: 1x1 위젯 길게눌러 크기조절 허용 + 비트맵 예산 상향(확대 시 선명도 확보)\n- docs: 빌드 성공 v1.18 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.17 → 1.18)\n- fix: K2 sumOf 오버로드 모호성(Int/UInt) 해소 — 텍스트 폭 누산 헬퍼로 교체\n- chore: 버전 자동 증가 (1.16 → 1.17)\n- ci: 게이지 스타일 추가분 빌드 트리거\n- ci: 압력 게이지 스타일 반영 빌드 트리거 (앞선 푸시가 [skip ci] 헤드라 실행되지 않았음)\n- docs: 압력게이지 시안 — 상단 좌우 배치(통신사 좌/시각 우) 갱신 [skip ci]\n- feat: 1x1 위젯에 압력 게이지 스타일(7번째) 추가\n- docs: AGENTS.md — gauge 스타일 기록 + 진행 상태 갱신 [skip ci]\n- docs: 압력게이지 시안 수정 — 상단 KT 이동, 통화 분만, 시각만 [skip ci]",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.22-1194937f.apk",
-  "apkSize": 20047947,
-  "sha256": "1194937f453c519098fcc7188116031c50ab970b364a17c31c3c2e50fcd2e6fa",
-  "publishedAt": "2026-10-22T12:13:52.228546Z"
+  "versionCode": 123,
+  "versionName": "1.23",
+  "tag": "v1.23",
+  "notes": "데이터 위젯 1.23 (v1.23)\n\n- chore: 버전 자동 증가 (1.22 → 1.23)\n- feat: 1x1 위젯 스타일 7종→2종 축소 + 기본 스타일 커스텀(실시간 미리보기·투명도)\n- docs: 테마 미리보기 클립 버그 원인/수정 기록 [skip ci]\n- chore: 버전 자동 증가 (1.21 → 1.22)\n- fix: 테마 미리보기 안 그려지는 문제 — graphicsLayer 축소 대신 density 축소로 변경\n- docs: 테마 실시간 미리보기 기록 + v1.21 릴리스 완료 + BoxScope import 실수 [skip ci]\n- chore: 버전 자동 증가 (1.20 → 1.21)\n- fix: matchParentSize 는 BoxScope 멤버라 top-level import 불가\n- chore: 버전 자동 증가 (1.19 → 1.20)\n- feat: 테마 선택 화면을 실제 홈 화면 실시간 미리보기로 교체\n- docs: 1x1 크기조절 복원 + 비트맵 예산 상향 기록 [skip ci]\n- chore: 버전 자동 증가 (1.18 → 1.19)\n- feat: 1x1 위젯 길게눌러 크기조절 허용 + 비트맵 예산 상향(확대 시 선명도 확보)\n- docs: 빌드 성공 v1.18 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.17 → 1.18)\n- fix: K2 sumOf 오버로드 모호성(Int/UInt) 해소 — 텍스트 폭 누산 헬퍼로 교체\n- chore: 버전 자동 증가 (1.16 → 1.17)\n- ci: 게이지 스타일 추가분 빌드 트리거\n- ci: 압력 게이지 스타일 반영 빌드 트리거 (앞선 푸시가 [skip ci] 헤드라 실행되지 않았음)\n- docs: 압력게이지 시안 — 상단 좌우 배치(통신사 좌/시각 우) 갱신 [skip ci]",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.23-b05928b4.apk",
+  "apkSize": 20064331,
+  "sha256": "b05928b4fd81cff1789098fd662f43c2b0763609bfff6149db16b2092ce7f58c",
+  "publishedAt": "2026-10-22T12:47:32.031849Z"
 }
