@@ -1,10 +1,10 @@
 {
-  "versionCode": 114,
-  "versionName": "1.14",
-  "tag": "v1.14",
-  "notes": "데이터 위젯 1.14 (v1.14)\n\n- chore: 버전 자동 증가 (1.13 → 1.14)\n- 1x1 위젯 업그레이드 시안 5종 (오로라링/선셋/포레스트/파스텔도트/골드다크)\n- chore: 버전 자동 증가 (1.12 → 1.13)\n- 타이포형 위젯의 미지원 <View> 를 <TextView> 로 교체 (RemoteViews inflate 실패 원인)\n- chore: 버전 자동 증가 (1.11 → 1.12)\n- 1x1 배경을 정적 그라디언트 drawable 로 변경 (비트맵 페이로드 0)\n- chore: 버전 자동 증가 (1.10 → 1.11)\n- 1x1 위젯 레이아웃을 4x1과 동일한 구조로 재작성 (LinearLayout 루트 + wrap_content + 중첩 제거, %/워터마크는 비트맵으로)\n- chore: 버전 자동 증가 (1.9 → 1.10)\n- 1x1 위젯 루트 ID 를 initialLayout 과 통일 + 타이포 워터마크 마진 정리\n- chore: 버전 자동 증가 (1.8 → 1.9)\n- 1x1 위젯 메타데이터를 동작하는 4x1 방식으로 통일 (targetCell 제거, resizeMode 변경, initialLayout 검증된 것으로)\n- chore: 버전 자동 증가 (1.7 → 1.8)\n- 위젯 진단: 시스템이 인식하는 위젯 provider 목록 표시 추가\n- chore: 버전 자동 증가 (1.6 → 1.7)\n- chore: RELEASES_TOKEN 등록 완료 기록 (CI 자동 게시 활성화)\n- chore: 버전 자동 증가 (1.5 → 1.6)\n- 위젯 진단 기록(성공/오류) 추가 + 4x1 initialLayout 원복\n- chore: 버전 자동 증가 (1.4 → 1.5)\n- LoginActivity: android.content.Intent import 누락 수정",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.14-123723f4.apk",
+  "versionCode": 115,
+  "versionName": "1.15",
+  "tag": "v1.15",
+  "notes": "데이터 위젯 1.15 (v1.15)\n\n- chore: 버전 자동 증가 (1.14 → 1.15)\n- 1x1 업그레이드 시안 리비전3 (요청 반영 + CSS 클래스 충돌 수정)\n- chore: 버전 자동 증가 (1.13 → 1.14)\n- 1x1 위젯 업그레이드 시안 5종 (오로라링/선셋/포레스트/파스텔도트/골드다크)\n- chore: 버전 자동 증가 (1.12 → 1.13)\n- 타이포형 위젯의 미지원 <View> 를 <TextView> 로 교체 (RemoteViews inflate 실패 원인)\n- chore: 버전 자동 증가 (1.11 → 1.12)\n- 1x1 배경을 정적 그라디언트 drawable 로 변경 (비트맵 페이로드 0)\n- chore: 버전 자동 증가 (1.10 → 1.11)\n- 1x1 위젯 레이아웃을 4x1과 동일한 구조로 재작성 (LinearLayout 루트 + wrap_content + 중첩 제거, %/워터마크는 비트맵으로)\n- chore: 버전 자동 증가 (1.9 → 1.10)\n- 1x1 위젯 루트 ID 를 initialLayout 과 통일 + 타이포 워터마크 마진 정리\n- chore: 버전 자동 증가 (1.8 → 1.9)\n- 1x1 위젯 메타데이터를 동작하는 4x1 방식으로 통일 (targetCell 제거, resizeMode 변경, initialLayout 검증된 것으로)\n- chore: 버전 자동 증가 (1.7 → 1.8)\n- 위젯 진단: 시스템이 인식하는 위젯 provider 목록 표시 추가\n- chore: 버전 자동 증가 (1.6 → 1.7)\n- chore: RELEASES_TOKEN 등록 완료 기록 (CI 자동 게시 활성화)\n- chore: 버전 자동 증가 (1.5 → 1.6)\n- 위젯 진단 기록(성공/오류) 추가 + 4x1 initialLayout 원복",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.15-02cf4cf8.apk",
   "apkSize": 20034579,
-  "sha256": "123723f49bf57405950bd77ba9a185c7475c4f941aff13f6debe5f431d0eead6",
-  "publishedAt": "2026-10-21T23:09:14.383623Z"
+  "sha256": "02cf4cf8b59a6899e1110241ece4f5cd675787662abfe76db3d102ec1deb7acf",
+  "publishedAt": "2026-10-22T00:31:49.976375Z"
 }
