@@ -1,10 +1,10 @@
 {
-  "versionCode": 115,
-  "versionName": "1.15",
-  "tag": "v1.15",
-  "notes": "데이터 위젯 1.15 (v1.15)\n\n- chore: 버전 자동 증가 (1.14 → 1.15)\n- 1x1 업그레이드 시안 리비전3 (요청 반영 + CSS 클래스 충돌 수정)\n- chore: 버전 자동 증가 (1.13 → 1.14)\n- 1x1 위젯 업그레이드 시안 5종 (오로라링/선셋/포레스트/파스텔도트/골드다크)\n- chore: 버전 자동 증가 (1.12 → 1.13)\n- 타이포형 위젯의 미지원 <View> 를 <TextView> 로 교체 (RemoteViews inflate 실패 원인)\n- chore: 버전 자동 증가 (1.11 → 1.12)\n- 1x1 배경을 정적 그라디언트 drawable 로 변경 (비트맵 페이로드 0)\n- chore: 버전 자동 증가 (1.10 → 1.11)\n- 1x1 위젯 레이아웃을 4x1과 동일한 구조로 재작성 (LinearLayout 루트 + wrap_content + 중첩 제거, %/워터마크는 비트맵으로)\n- chore: 버전 자동 증가 (1.9 → 1.10)\n- 1x1 위젯 루트 ID 를 initialLayout 과 통일 + 타이포 워터마크 마진 정리\n- chore: 버전 자동 증가 (1.8 → 1.9)\n- 1x1 위젯 메타데이터를 동작하는 4x1 방식으로 통일 (targetCell 제거, resizeMode 변경, initialLayout 검증된 것으로)\n- chore: 버전 자동 증가 (1.7 → 1.8)\n- 위젯 진단: 시스템이 인식하는 위젯 provider 목록 표시 추가\n- chore: 버전 자동 증가 (1.6 → 1.7)\n- chore: RELEASES_TOKEN 등록 완료 기록 (CI 자동 게시 활성화)\n- chore: 버전 자동 증가 (1.5 → 1.6)\n- 위젯 진단 기록(성공/오류) 추가 + 4x1 initialLayout 원복",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.15-02cf4cf8.apk",
-  "apkSize": 20034579,
-  "sha256": "02cf4cf8b59a6899e1110241ece4f5cd675787662abfe76db3d102ec1deb7acf",
-  "publishedAt": "2026-10-22T00:31:49.976375Z"
+  "versionCode": 118,
+  "versionName": "1.18",
+  "tag": "v1.18",
+  "notes": "데이터 위젯 1.18 (v1.18)\n\n- chore: 버전 자동 증가 (1.17 → 1.18)\n- fix: K2 sumOf 오버로드 모호성(Int/UInt) 해소 — 텍스트 폭 누산 헬퍼로 교체\n- chore: 버전 자동 증가 (1.16 → 1.17)\n- ci: 게이지 스타일 추가분 빌드 트리거\n- ci: 압력 게이지 스타일 반영 빌드 트리거 (앞선 푸시가 [skip ci] 헤드라 실행되지 않았음)\n- docs: 압력게이지 시안 — 상단 좌우 배치(통신사 좌/시각 우) 갱신 [skip ci]\n- feat: 1x1 위젯에 압력 게이지 스타일(7번째) 추가\n- docs: AGENTS.md — gauge 스타일 기록 + 진행 상태 갱신 [skip ci]\n- docs: 압력게이지 시안 수정 — 상단 KT 이동, 통화 분만, 시각만 [skip ci]\n- docs: 1x1 위젯 압력게이지 콘셉트 시안 (canvas-design 스킬) [skip ci]\n- docs: 1x1 위젯 시안 v5 (6종 시트 · 기본/미드나잇/선셋/포레스트/아크틱/네온) [skip ci]\n- docs: 1x1 위젯 시안 리비전6 (6종 캔버스 최종) + 과거 시안 정리 [skip ci]\n- docs: 1x1 위젯 시안 리비전5 (오로라 눈금 20개·포레스트 4단·파스텔 GB/%) [skip ci]\n- docs: 1x1 위젯 시안 리비전4 + 캔버스 미리보기 PNG [skip ci]\n- chore: 버전 자동 증가 (1.15 → 1.16)\n- 1x1 위젯 5종 업그레이드 구현 (캔버스 드로잉 기반: 오로라/선셋/포레스트/파스텔/골드)\n- chore: 버전 자동 증가 (1.14 → 1.15)\n- 1x1 업그레이드 시안 리비전3 (요청 반영 + CSS 클래스 충돌 수정)\n- chore: 버전 자동 증가 (1.13 → 1.14)\n- 1x1 위젯 업그레이드 시안 5종 (오로라링/선셋/포레스트/파스텔도트/골드다크)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.18-e6bcea22.apk",
+  "apkSize": 20047947,
+  "sha256": "e6bcea22f05335ec651c67f3b78643ed7fafa3b6206fc8e7676f8e41c45f3cdf",
+  "publishedAt": "2026-10-22T06:11:07.977316Z"
 }
