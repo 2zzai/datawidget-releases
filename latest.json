@@ -1,10 +1,10 @@
 {
-  "versionCode": 124,
-  "versionName": "1.24",
-  "tag": "v1.24",
-  "notes": "데이터 위젯 1.24 (v1.24)\n\n- chore: 버전 자동 증가 (1.23 → 1.24)\n- feat: 1x1 커스텀 확장 — 큰 글자·표시 항목 선택·얇은 슬라이더·구분선\n- chore: 버전 자동 증가 (1.22 → 1.23)\n- feat: 1x1 위젯 스타일 7종→2종 축소 + 기본 스타일 커스텀(실시간 미리보기·투명도)\n- docs: 테마 미리보기 클립 버그 원인/수정 기록 [skip ci]\n- chore: 버전 자동 증가 (1.21 → 1.22)\n- fix: 테마 미리보기 안 그려지는 문제 — graphicsLayer 축소 대신 density 축소로 변경\n- docs: 테마 실시간 미리보기 기록 + v1.21 릴리스 완료 + BoxScope import 실수 [skip ci]\n- chore: 버전 자동 증가 (1.20 → 1.21)\n- fix: matchParentSize 는 BoxScope 멤버라 top-level import 불가\n- chore: 버전 자동 증가 (1.19 → 1.20)\n- feat: 테마 선택 화면을 실제 홈 화면 실시간 미리보기로 교체\n- docs: 1x1 크기조절 복원 + 비트맵 예산 상향 기록 [skip ci]\n- chore: 버전 자동 증가 (1.18 → 1.19)\n- feat: 1x1 위젯 길게눌러 크기조절 허용 + 비트맵 예산 상향(확대 시 선명도 확보)\n- docs: 빌드 성공 v1.18 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.17 → 1.18)\n- fix: K2 sumOf 오버로드 모호성(Int/UInt) 해소 — 텍스트 폭 누산 헬퍼로 교체\n- chore: 버전 자동 증가 (1.16 → 1.17)\n- ci: 게이지 스타일 추가분 빌드 트리거",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.24-87b01885.apk",
-  "apkSize": 20080715,
-  "sha256": "87b018850bac24b22a93bb4bd37ac62d421fe0f7c6114cd17debeb391eed6a50",
-  "publishedAt": "2026-10-22T13:12:58.266654Z"
+  "versionCode": 126,
+  "versionName": "1.26",
+  "tag": "v1.26",
+  "notes": "데이터 위젯 1.26 (v1.26)\n\n- chore: 버전 자동 증가 (1.25 → 1.26)\n- fix: 위젯별 prefs 접두사 템플릿 파싱 오류 ($id_ → $\\{id\\}_)\n- chore: 버전 자동 증가 (1.24 → 1.25)\n- feat: 빅넘버 스타일·위젯별 개별 설정·날씨 앱형 설정창·팔레트 교체\n- chore: 버전 자동 증가 (1.23 → 1.24)\n- feat: 1x1 커스텀 확장 — 큰 글자·표시 항목 선택·얇은 슬라이더·구분선\n- chore: 버전 자동 증가 (1.22 → 1.23)\n- feat: 1x1 위젯 스타일 7종→2종 축소 + 기본 스타일 커스텀(실시간 미리보기·투명도)\n- docs: 테마 미리보기 클립 버그 원인/수정 기록 [skip ci]\n- chore: 버전 자동 증가 (1.21 → 1.22)\n- fix: 테마 미리보기 안 그려지는 문제 — graphicsLayer 축소 대신 density 축소로 변경\n- docs: 테마 실시간 미리보기 기록 + v1.21 릴리스 완료 + BoxScope import 실수 [skip ci]\n- chore: 버전 자동 증가 (1.20 → 1.21)\n- fix: matchParentSize 는 BoxScope 멤버라 top-level import 불가\n- chore: 버전 자동 증가 (1.19 → 1.20)\n- feat: 테마 선택 화면을 실제 홈 화면 실시간 미리보기로 교체\n- docs: 1x1 크기조절 복원 + 비트맵 예산 상향 기록 [skip ci]\n- chore: 버전 자동 증가 (1.18 → 1.19)\n- feat: 1x1 위젯 길게눌러 크기조절 허용 + 비트맵 예산 상향(확대 시 선명도 확보)\n- docs: 빌드 성공 v1.18 릴리스 기록 [skip ci]",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.26-1a4f9e0e.apk",
+  "apkSize": 20097099,
+  "sha256": "1a4f9e0ed9df1cafc174e7102ea8e0eea5b55728481d1d187b56f4285b8f00e1",
+  "publishedAt": "2026-10-22T16:56:54.103525Z"
 }
