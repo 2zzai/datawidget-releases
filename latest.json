@@ -1,10 +1,10 @@
 {
-  "versionCode": 129,
-  "versionName": "1.29",
-  "tag": "v1.29",
-  "notes": "데이터 위젯 1.29 (v1.29)\n\n- chore: 버전 자동 증가 (1.28 → 1.29)\n- fix: ThinSlider 람다 캡처 버그(대상 전환 후 슬라이더 잠김·투명도 통합) + 미리보기 100dp 축소\n- docs: AGENTS.md 7차 기록 + v1.28 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.27 → 1.28)\n- fix: Widget1x1Custom.DEFAULT 누락 typoItem 추가\n- chore: 버전 자동 증가 (1.26 → 1.27)\n- feat: 미리보기 고정·통화 사용량 표시·글자크기 5종·추천 색조합 3종·기본 스타일 삭제·투명도 대상별\n- docs: AGENTS.md 6차 기록 + v1.26 릴리스 기록 정리 [skip ci]\n- chore: 버전 자동 증가 (1.25 → 1.26)\n- fix: 위젯별 prefs 접두사 템플릿 파싱 오류 ($id_ → $\\{id\\}_)\n- chore: 버전 자동 증가 (1.24 → 1.25)\n- feat: 빅넘버 스타일·위젯별 개별 설정·날씨 앱형 설정창·팔레트 교체\n- chore: 버전 자동 증가 (1.23 → 1.24)\n- feat: 1x1 커스텀 확장 — 큰 글자·표시 항목 선택·얇은 슬라이더·구분선\n- chore: 버전 자동 증가 (1.22 → 1.23)\n- feat: 1x1 위젯 스타일 7종→2종 축소 + 기본 스타일 커스텀(실시간 미리보기·투명도)\n- docs: 테마 미리보기 클립 버그 원인/수정 기록 [skip ci]\n- chore: 버전 자동 증가 (1.21 → 1.22)\n- fix: 테마 미리보기 안 그려지는 문제 — graphicsLayer 축소 대신 density 축소로 변경\n- docs: 테마 실시간 미리보기 기록 + v1.21 릴리스 완료 + BoxScope import 실수 [skip ci]",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.29-49179e43.apk",
-  "apkSize": 20097099,
-  "sha256": "49179e43d9c5561867305c464f06f0b69d65a74371cec60b765d47f41b20d286",
-  "publishedAt": "2026-10-22T23:08:30.711421Z"
+  "versionCode": 131,
+  "versionName": "1.31",
+  "tag": "v1.31",
+  "notes": "데이터 위젯 1.31 (v1.31)\n\n- chore: 버전 자동 증가 (1.30 → 1.31)\n- fix: 1x1 빅넘버 설정 UI 컴파일 오류 수정 + 제목/값 크기 분리 + 탭 스크롤\n- chore: 버전 자동 증가 (1.29 → 1.30)\n- feat: 1x1 위젯 빅넘버 설정 UI 개편 (미리보기 크기·위젯 추가 버튼·100선 프리셋·동적 슬라이더·아코디언)\n- docs: v1.29 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.28 → 1.29)\n- fix: ThinSlider 람다 캡처 버그(대상 전환 후 슬라이더 잠김·투명도 통합) + 미리보기 100dp 축소\n- docs: AGENTS.md 7차 기록 + v1.28 릴리스 기록 [skip ci]\n- chore: 버전 자동 증가 (1.27 → 1.28)\n- fix: Widget1x1Custom.DEFAULT 누락 typoItem 추가\n- chore: 버전 자동 증가 (1.26 → 1.27)\n- feat: 미리보기 고정·통화 사용량 표시·글자크기 5종·추천 색조합 3종·기본 스타일 삭제·투명도 대상별\n- docs: AGENTS.md 6차 기록 + v1.26 릴리스 기록 정리 [skip ci]\n- chore: 버전 자동 증가 (1.25 → 1.26)\n- fix: 위젯별 prefs 접두사 템플릿 파싱 오류 ($id_ → $\\{id\\}_)\n- chore: 버전 자동 증가 (1.24 → 1.25)\n- feat: 빅넘버 스타일·위젯별 개별 설정·날씨 앱형 설정창·팔레트 교체\n- chore: 버전 자동 증가 (1.23 → 1.24)\n- feat: 1x1 커스텀 확장 — 큰 글자·표시 항목 선택·얇은 슬라이더·구분선\n- chore: 버전 자동 증가 (1.22 → 1.23)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.31-ae781b1c.apk",
+  "apkSize": 20113483,
+  "sha256": "ae781b1cfef9856718c3538315bb9f6055c009407610b09ffc139c9004634ef7",
+  "publishedAt": "2026-10-23T07:17:08.731129Z"
 }
