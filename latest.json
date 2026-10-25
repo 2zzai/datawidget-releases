@@ -1,10 +1,10 @@
 {
-  "versionCode": 138,
-  "versionName": "1.38",
-  "tag": "v1.38",
-  "notes": "데이터 위젯 1.38 (v1.38)\n\n- chore: 버전 자동 증가 (1.37 → 1.38)\n- docs: 수정 상태·CI 실패 원인·버전 현황 반영\n- fix: CI 임포트 오류·GAUGE 저장·위젯별 스타일·음성 단위 수정\n- chore: 버전 자동 증가 (1.36 → 1.37)\n- docs: A안 완료 상태 반영 (전역 AGENTS.md 축소 + 별도 보관, CI 빌드 대기)\n- chore: 버전 자동 증가 (1.35 → 1.36)\n- docs: 문서 구조 개선 완료 + 규칙 추가 + 상태/문제 기록 갱신\n- docs: AGENTS.md 알려진 문제 목록 기록 (미수정, 추후 수정용) [skip ci]\n- docs: AGENTS.md 11차 여백 정리 [skip ci]\n- docs: AGENTS.md 11차 (4건 개선·v1.35) [skip ci]\n- chore: 버전 자동 증가 (1.34 → 1.35)\n- fix: 4x1 미리보기 폭 고정·슬라이더 스크롤 간섭 제거·1x1 실패/오래됨 표시·설정 탭 중앙 정렬\n- docs: AGENTS.md 10차 (설정 탭 헤더 이동·4x1 미리보기 폭 고정·v1.34) [skip ci]\n- chore: 버전 자동 증가 (1.33 → 1.34)\n- fix: 설정 탭을 상단 헤더로 이동 + 4x1 미리보기 폭 고정 (크기조절 중 깜빡임)\n- docs: AGENTS.md 9차 (4x1 위젯 설정·RemoteViews 미리보기·v1.33) [skip ci]\n- chore: 버전 자동 증가 (1.32 → 1.33)\n- feat: 4x1 위젯 설정 화면 (실제 RemoteViews 미리보기·글자색/크기·표시항목·위젯별 설정)\n- chore: 버전 자동 증가 (1.31 → 1.32)\n- fix: 1x1 미리보기 카드를 다시 상단 고정 (탭만 스크롤과 함께 사라짐)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.38-ac425dd5.apk",
+  "versionCode": 139,
+  "versionName": "1.39",
+  "tag": "v1.39",
+  "notes": "데이터 위젯 1.39 (v1.39)\n\n- chore: 버전 자동 증가 (1.38 → 1.39)\n- ci: APK 서명 지문 검증 단계 추가\n- docs: 커밋 기준 표현 정정 [skip ci]\n- docs: CI 성공·v1.38 릴리스 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.37 → 1.38)\n- docs: 수정 상태·CI 실패 원인·버전 현황 반영\n- fix: CI 임포트 오류·GAUGE 저장·위젯별 스타일·음성 단위 수정\n- chore: 버전 자동 증가 (1.36 → 1.37)\n- docs: A안 완료 상태 반영 (전역 AGENTS.md 축소 + 별도 보관, CI 빌드 대기)\n- chore: 버전 자동 증가 (1.35 → 1.36)\n- docs: 문서 구조 개선 완료 + 규칙 추가 + 상태/문제 기록 갱신\n- docs: AGENTS.md 알려진 문제 목록 기록 (미수정, 추후 수정용) [skip ci]\n- docs: AGENTS.md 11차 여백 정리 [skip ci]\n- docs: AGENTS.md 11차 (4건 개선·v1.35) [skip ci]\n- chore: 버전 자동 증가 (1.34 → 1.35)\n- fix: 4x1 미리보기 폭 고정·슬라이더 스크롤 간섭 제거·1x1 실패/오래됨 표시·설정 탭 중앙 정렬\n- docs: AGENTS.md 10차 (설정 탭 헤더 이동·4x1 미리보기 폭 고정·v1.34) [skip ci]\n- chore: 버전 자동 증가 (1.33 → 1.34)\n- fix: 설정 탭을 상단 헤더로 이동 + 4x1 미리보기 폭 고정 (크기조절 중 깜빡임)\n- docs: AGENTS.md 9차 (4x1 위젯 설정·RemoteViews 미리보기·v1.33) [skip ci]",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.39-0f1ce904.apk",
   "apkSize": 20146251,
-  "sha256": "ac425dd5faa9ae237d8a040678350bf8639a4ee3dd95b2a6652bb380b20ab3a8",
-  "publishedAt": "2026-10-24T22:09:08.486133Z"
+  "sha256": "0f1ce904980678b681d72b77aa18e034bbbc01a49a19fc7e5f0aa364620977e1",
+  "publishedAt": "2026-10-25T07:20:35.015486Z"
 }
