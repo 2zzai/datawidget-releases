@@ -1,10 +1,10 @@
 {
-  "versionCode": 142,
-  "versionName": "1.42",
-  "tag": "v1.42",
-  "notes": "데이터 위젯 1.42 (v1.42)\n\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선\n- chore: Matt Pocock 스킬 초기 설정 (이슈 트래커·트라이지 라벨·도메인 문서)\n- chore: Matt Pocock 스킬 설치 (engineering + productivity 27개)\n- chore: 버전 자동 증가 (1.39 → 1.40)\n- fix: 무제한 표시·0바이트·단위 파싱·위젯별 설정 저장 수정\n- docs: v1.39 CI·서명 검증 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.38 → 1.39)\n- ci: APK 서명 지문 검증 단계 추가\n- docs: 커밋 기준 표현 정정 [skip ci]\n- docs: CI 성공·v1.38 릴리스 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.37 → 1.38)\n- docs: 수정 상태·CI 실패 원인·버전 현황 반영\n- fix: CI 임포트 오류·GAUGE 저장·위젯별 스타일·음성 단위 수정\n- chore: 버전 자동 증가 (1.36 → 1.37)\n- docs: A안 완료 상태 반영 (전역 AGENTS.md 축소 + 별도 보관, CI 빌드 대기)\n- chore: 버전 자동 증가 (1.35 → 1.36)\n- docs: 문서 구조 개선 완료 + 규칙 추가 + 상태/문제 기록 갱신",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.42-4b8b3566.apk",
-  "apkSize": 20162767,
-  "sha256": "4b8b3566ec8d4fa1f8730694d81056c1988583a572664f8bcc332d1946106ece",
-  "publishedAt": "2026-10-25T16:04:57.909857Z"
+  "versionCode": 143,
+  "versionName": "1.43",
+  "tag": "v1.43",
+  "notes": "데이터 위젯 1.43 (v1.43)\n\n- chore: 버전 자동 증가 (1.42 → 1.43)\n- fix: 데이터 절감·안정성 수정 적용 및 검토 지적 5건 반영\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선\n- chore: Matt Pocock 스킬 초기 설정 (이슈 트래커·트라이지 라벨·도메인 문서)\n- chore: Matt Pocock 스킬 설치 (engineering + productivity 27개)\n- chore: 버전 자동 증가 (1.39 → 1.40)\n- fix: 무제한 표시·0바이트·단위 파싱·위젯별 설정 저장 수정\n- docs: v1.39 CI·서명 검증 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.38 → 1.39)\n- ci: APK 서명 지문 검증 단계 추가\n- docs: 커밋 기준 표현 정정 [skip ci]\n- docs: CI 성공·v1.38 릴리스 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.37 → 1.38)\n- docs: 수정 상태·CI 실패 원인·버전 현황 반영\n- fix: CI 임포트 오류·GAUGE 저장·위젯별 스타일·음성 단위 수정\n- chore: 버전 자동 증가 (1.36 → 1.37)\n- docs: A안 완료 상태 반영 (전역 AGENTS.md 축소 + 별도 보관, CI 빌드 대기)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.43-149356c3.apk",
+  "apkSize": 20179603,
+  "sha256": "149356c3b5676ea6fc1233ef160030b806140b97a1faa14482aedd146c236bda",
+  "publishedAt": "2026-10-26T02:37:29.875060Z"
 }
