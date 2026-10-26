@@ -1,10 +1,10 @@
 {
-  "versionCode": 145,
-  "versionName": "1.45",
-  "tag": "v1.45",
-  "notes": "데이터 위젯 1.45 (v1.45)\n\n- chore: 버전 자동 증가 (1.44 → 1.45)\n- fix: 위젯 6개 문제 수정 (4x1 투명도 분리·잔여/시각 개별 설정·슬라이더 오터치·메모 배치·1x1 크기 범위·고대비 프리셋)\n- chore: 버전 자동 증가 (1.43 → 1.44)\n- docs: CI 빌드 결과(v1.43) 기록 + 세션 유지 안내 문구 정확화\n- chore: 버전 자동 증가 (1.42 → 1.43)\n- fix: 데이터 절감·안정성 수정 적용 및 검토 지적 5건 반영\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선\n- chore: Matt Pocock 스킬 초기 설정 (이슈 트래커·트라이지 라벨·도메인 문서)\n- chore: Matt Pocock 스킬 설치 (engineering + productivity 27개)\n- chore: 버전 자동 증가 (1.39 → 1.40)\n- fix: 무제한 표시·0바이트·단위 파싱·위젯별 설정 저장 수정\n- docs: v1.39 CI·서명 검증 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.38 → 1.39)\n- ci: APK 서명 지문 검증 단계 추가\n- docs: 커밋 기준 표현 정정 [skip ci]\n- docs: CI 성공·v1.38 릴리스 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.37 → 1.38)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.45-96a46dde.apk",
-  "apkSize": 20163299,
-  "sha256": "96a46dde2ceb20c15fed6db7729c7c524dfa59fd81b06a9a85b2808e13157784",
-  "publishedAt": "2026-10-26T06:07:44.864763Z"
+  "versionCode": 146,
+  "versionName": "1.46",
+  "tag": "v1.46",
+  "notes": "데이터 위젯 1.46 (v1.46)\n\n- chore: 버전 자동 증가 (1.45 → 1.46)\n- fix: 위젯 꾸미기 7건 수정 (다크테마 메모·크기/색 통합·추천 이동·그라데이션)\n- docs: 폰 앱 서명 일치 사용자 확인 기록 (v1.45 덮어쓰기 설치 가능) [skip ci]\n- docs: 위젯 UI 수정 6건·v1.45 CI 결과 기록 (위젯 규칙 갱신) [skip ci]\n- chore: 버전 자동 증가 (1.44 → 1.45)\n- fix: 위젯 6개 문제 수정 (4x1 투명도 분리·잔여/시각 개별 설정·슬라이더 오터치·메모 배치·1x1 크기 범위·고대비 프리셋)\n- chore: 버전 자동 증가 (1.43 → 1.44)\n- docs: CI 빌드 결과(v1.43) 기록 + 세션 유지 안내 문구 정확화\n- chore: 버전 자동 증가 (1.42 → 1.43)\n- fix: 데이터 절감·안정성 수정 적용 및 검토 지적 5건 반영\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선\n- chore: Matt Pocock 스킬 초기 설정 (이슈 트래커·트라이지 라벨·도메인 문서)\n- chore: Matt Pocock 스킬 설치 (engineering + productivity 27개)\n- chore: 버전 자동 증가 (1.39 → 1.40)\n- fix: 무제한 표시·0바이트·단위 파싱·위젯별 설정 저장 수정\n- docs: v1.39 CI·서명 검증 결과 반영 [skip ci]\n- chore: 버전 자동 증가 (1.38 → 1.39)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.46-f444aa16.apk",
+  "apkSize": 20163515,
+  "sha256": "f444aa161f66f181ebf1a80d69895f423504398c2a494f8b5279c6a55f8e376a",
+  "publishedAt": "2026-10-26T10:45:32.211602Z"
 }
