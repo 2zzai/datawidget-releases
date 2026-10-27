@@ -1,10 +1,10 @@
 {
-  "versionCode": 148,
-  "versionName": "1.48",
-  "tag": "v1.48",
-  "notes": "데이터 위젯 1.48 (v1.48)\n\n- chore: 버전 자동 증가 (1.47 → 1.48)\n- fix: 테마 추천 썸네일 불투명 + 4x1 잔여량·시각 색 대비 보정\n- chore: 버전 자동 증가 (1.46 → 1.47)\n- UI: 테마 추천 섹션 기본 펼침으로 변경 (initiallyOpen=true)\n- chore: 버전 자동 증가 (1.45 → 1.46)\n- fix: 위젯 꾸미기 7건 수정 (다크테마 메모·크기/색 통합·추천 이동·그라데이션)\n- docs: 폰 앱 서명 일치 사용자 확인 기록 (v1.45 덮어쓰기 설치 가능) [skip ci]\n- docs: 위젯 UI 수정 6건·v1.45 CI 결과 기록 (위젯 규칙 갱신) [skip ci]\n- chore: 버전 자동 증가 (1.44 → 1.45)\n- fix: 위젯 6개 문제 수정 (4x1 투명도 분리·잔여/시각 개별 설정·슬라이더 오터치·메모 배치·1x1 크기 범위·고대비 프리셋)\n- chore: 버전 자동 증가 (1.43 → 1.44)\n- docs: CI 빌드 결과(v1.43) 기록 + 세션 유지 안내 문구 정확화\n- chore: 버전 자동 증가 (1.42 → 1.43)\n- fix: 데이터 절감·안정성 수정 적용 및 검토 지적 5건 반영\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선\n- chore: Matt Pocock 스킬 초기 설정 (이슈 트래커·트라이지 라벨·도메인 문서)\n- chore: Matt Pocock 스킬 설치 (engineering + productivity 27개)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.48-fbe91e40.apk",
-  "apkSize": 20163515,
-  "sha256": "fbe91e40ca409ee6948f4d06a27f3f644a054a5f7cd08ff0d1245043e9aaa09d",
-  "publishedAt": "2026-10-27T02:39:25.329062Z"
+  "versionCode": 149,
+  "versionName": "1.49",
+  "tag": "v1.49",
+  "notes": "데이터 위젯 1.49 (v1.49)\n\n- chore: 버전 자동 증가 (1.48 → 1.49)\n- fix: 추천 테마 색상값 알파 누락 수정 (적용해도 투명해지던 문제)\n- chore: 버전 자동 증가 (1.47 → 1.48)\n- fix: 테마 추천 썸네일 불투명 + 4x1 잔여량·시각 색 대비 보정\n- chore: 버전 자동 증가 (1.46 → 1.47)\n- UI: 테마 추천 섹션 기본 펼침으로 변경 (initiallyOpen=true)\n- chore: 버전 자동 증가 (1.45 → 1.46)\n- fix: 위젯 꾸미기 7건 수정 (다크테마 메모·크기/색 통합·추천 이동·그라데이션)\n- docs: 폰 앱 서명 일치 사용자 확인 기록 (v1.45 덮어쓰기 설치 가능) [skip ci]\n- docs: 위젯 UI 수정 6건·v1.45 CI 결과 기록 (위젯 규칙 갱신) [skip ci]\n- chore: 버전 자동 증가 (1.44 → 1.45)\n- fix: 위젯 6개 문제 수정 (4x1 투명도 분리·잔여/시각 개별 설정·슬라이더 오터치·메모 배치·1x1 크기 범위·고대비 프리셋)\n- chore: 버전 자동 증가 (1.43 → 1.44)\n- docs: CI 빌드 결과(v1.43) 기록 + 세션 유지 안내 문구 정확화\n- chore: 버전 자동 증가 (1.42 → 1.43)\n- fix: 데이터 절감·안정성 수정 적용 및 검토 지적 5건 반영\n- chore: 버전 자동 증가 (1.41 → 1.42)\n- fix: Widget1x1Custom companion object 상수 참조 수정 (Widget1x1Custom.LABEL_SIZE_RANGE 등)\n- chore: 버전 자동 증가 (1.40 → 1.41)\n- feat: 1x1·4x1 위젯 개선",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.49-0c05a6b9.apk",
+  "apkSize": 20179899,
+  "sha256": "0c05a6b907ad5f67855b9183e370dfe448609422f5ec212fc04c8f377ea2894d",
+  "publishedAt": "2026-10-27T03:16:39.997828Z"
 }
