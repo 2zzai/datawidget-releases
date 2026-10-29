@@ -1,10 +1,10 @@
 {
-  "versionCode": 164,
-  "versionName": "1.64",
-  "tag": "v1.64",
-  "notes": "데이터 위젯 1.64 (v1.64)\n\n- chore: 버전 자동 증가 (1.63 → 1.64)\n- fix: SessionRenewer 정규식 이스케이프 오류 수정 (CI 빌드 실패)\n- chore: 버전 자동 증가 (1.62 → 1.63)\n- feat: 1x1 위젯 탭에도 자동 복구(물결 화면) 연결\n- feat: 로그인 자동 복구 견고화 (JS·타임아웃·딥링크 폴백·탭 자동 복구 화면·복구 상세 기록)\n- chore: 버전 자동 증가 (1.61 → 1.62)\n- fix: Image ع닫 Spacer 구문 분리 (빌드 실패 수정)\n- chore: 버전 자동 증가 (1.60 → 1.61)\n- feat: 미리보기 정리 — 3x1 가운데 정렬·30% 확대·여백 축소, 1x1 격자 배경 제거·요약 위젯#1\n- chore: 버전 자동 증가 (1.59 → 1.60)\n- feat: 신규 3x1 위젯 초기값 — 예전 글자크기 지우는 마이그레이션 · 추천 테마 첫 조합 자동 적용\n- chore: 버전 자동 증가 (1.58 → 1.59)\n- feat: 3x1 미리보기를 세로 배치로 개편 (제목 → 위젯 → 요약·저장 안내)\n- chore: 버전 자동 증가 (1.57 → 1.58)\n- feat: 위젯 명칭을 3x1 기준으로 통일 · 폭 조절 안내·테마 추천 3x1 미리보기 · 신규 위젯 기본 글자 크기(데이터 수치 20)\n- chore: 버전 자동 증가 (1.56 → 1.57)\n- fix: 4x1 폭 축소 허용(2x1·3x1) · 미리보기 3x1 기준 240dp로 조정\n- chore: 버전 자동 증가 (1.55 → 1.56)\n- feat: 4x1 세로 리사이즈 · 대상 위젯 6칸 그리드 · 위젯 추가 버튼 제거\n- chore: 버전 자동 증가 (1.54 → 1.55)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.64-0a3eb037.apk",
+  "versionCode": 165,
+  "versionName": "1.65",
+  "tag": "v1.65",
+  "notes": "데이터 위젯 1.65 (v1.65)\n\n- chore: 버전 자동 증가 (1.64 → 1.65)\n- ui: 3x1 미리보기 카드 위아래 여백 축소\n- chore: 버전 자동 증가 (1.63 → 1.64)\n- fix: SessionRenewer 정규식 이스케이프 오류 수정 (CI 빌드 실패)\n- chore: 버전 자동 증가 (1.62 → 1.63)\n- feat: 1x1 위젯 탭에도 자동 복구(물결 화면) 연결\n- feat: 로그인 자동 복구 견고화 (JS·타임아웃·딥링크 폴백·탭 자동 복구 화면·복구 상세 기록)\n- chore: 버전 자동 증가 (1.61 → 1.62)\n- fix: Image ع닫 Spacer 구문 분리 (빌드 실패 수정)\n- chore: 버전 자동 증가 (1.60 → 1.61)\n- feat: 미리보기 정리 — 3x1 가운데 정렬·30% 확대·여백 축소, 1x1 격자 배경 제거·요약 위젯#1\n- chore: 버전 자동 증가 (1.59 → 1.60)\n- feat: 신규 3x1 위젯 초기값 — 예전 글자크기 지우는 마이그레이션 · 추천 테마 첫 조합 자동 적용\n- chore: 버전 자동 증가 (1.58 → 1.59)\n- feat: 3x1 미리보기를 세로 배치로 개편 (제목 → 위젯 → 요약·저장 안내)\n- chore: 버전 자동 증가 (1.57 → 1.58)\n- feat: 위젯 명칭을 3x1 기준으로 통일 · 폭 조절 안내·테마 추천 3x1 미리보기 · 신규 위젯 기본 글자 크기(데이터 수치 20)\n- chore: 버전 자동 증가 (1.56 → 1.57)\n- fix: 4x1 폭 축소 허용(2x1·3x1) · 미리보기 3x1 기준 240dp로 조정\n- chore: 버전 자동 증가 (1.55 → 1.56)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.65-2aba9d0e.apk",
   "apkSize": 20229283,
-  "sha256": "0a3eb0376d5018a35324bc307fa07ac9f35c73e69e994e4b9d8f2f1b0b8f227a",
-  "publishedAt": "2026-10-29T00:44:22.384648Z"
+  "sha256": "2aba9d0e26befd70834cede3856b4fab07e3b21967698b7b99c1356bbd4ee1bb",
+  "publishedAt": "2026-10-29T01:37:39.600782Z"
 }
