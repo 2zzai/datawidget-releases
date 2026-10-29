@@ -1,10 +1,10 @@
 {
-  "versionCode": 167,
-  "versionName": "1.67",
-  "tag": "v1.67",
-  "notes": "데이터 위젯 1.67 (v1.67)\n\n- chore: 버전 자동 증가 (1.66 → 1.67)\n- ui: 홈 카드 제목 '데이터' 통일 + 남은 일수, 테마 선택 가운데 정렬, 상단 여백 축소\n- chore: 버전 자동 증가 (1.65 → 1.66)\n- ui: 위젯 수정 화면 하단 저장 바를 내비게이션 바에 붙임\n- chore: 버전 자동 증가 (1.64 → 1.65)\n- ui: 3x1 미리보기 카드 위아래 여백 축소\n- chore: 버전 자동 증가 (1.63 → 1.64)\n- fix: SessionRenewer 정규식 이스케이프 오류 수정 (CI 빌드 실패)\n- chore: 버전 자동 증가 (1.62 → 1.63)\n- feat: 1x1 위젯 탭에도 자동 복구(물결 화면) 연결\n- feat: 로그인 자동 복구 견고화 (JS·타임아웃·딥링크 폴백·탭 자동 복구 화면·복구 상세 기록)\n- chore: 버전 자동 증가 (1.61 → 1.62)\n- fix: Image ع닫 Spacer 구문 분리 (빌드 실패 수정)\n- chore: 버전 자동 증가 (1.60 → 1.61)\n- feat: 미리보기 정리 — 3x1 가운데 정렬·30% 확대·여백 축소, 1x1 격자 배경 제거·요약 위젯#1\n- chore: 버전 자동 증가 (1.59 → 1.60)\n- feat: 신규 3x1 위젯 초기값 — 예전 글자크기 지우는 마이그레이션 · 추천 테마 첫 조합 자동 적용\n- chore: 버전 자동 증가 (1.58 → 1.59)\n- feat: 3x1 미리보기를 세로 배치로 개편 (제목 → 위젯 → 요약·저장 안내)\n- chore: 버전 자동 증가 (1.57 → 1.58)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.67-973cd8af.apk",
-  "apkSize": 20229283,
-  "sha256": "973cd8af8df1cf8ac23675a28a3971f8c7ea26319fb04084422db0c4b901776e",
-  "publishedAt": "2026-10-29T02:16:48.753418Z"
+  "versionCode": 169,
+  "versionName": "1.69",
+  "tag": "v1.69",
+  "notes": "데이터 위젯 1.69 (v1.69)\n\n- chore: 버전 자동 증가 (1.68 → 1.69)\n- fix: WidgetStore nullable total in String.format\n- chore: 버전 자동 증가 (1.67 → 1.68)\n- feat: 특수 요금제 데이터 항목 표시 + 위젯 표시 항목 선택\n- chore: 버전 자동 증가 (1.66 → 1.67)\n- ui: 홈 카드 제목 '데이터' 통일 + 남은 일수, 테마 선택 가운데 정렬, 상단 여백 축소\n- chore: 버전 자동 증가 (1.65 → 1.66)\n- ui: 위젯 수정 화면 하단 저장 바를 내비게이션 바에 붙임\n- chore: 버전 자동 증가 (1.64 → 1.65)\n- ui: 3x1 미리보기 카드 위아래 여백 축소\n- chore: 버전 자동 증가 (1.63 → 1.64)\n- fix: SessionRenewer 정규식 이스케이프 오류 수정 (CI 빌드 실패)\n- chore: 버전 자동 증가 (1.62 → 1.63)\n- feat: 1x1 위젯 탭에도 자동 복구(물결 화면) 연결\n- feat: 로그인 자동 복구 견고화 (JS·타임아웃·딥링크 폴백·탭 자동 복구 화면·복구 상세 기록)\n- chore: 버전 자동 증가 (1.61 → 1.62)\n- fix: Image ع닫 Spacer 구문 분리 (빌드 실패 수정)\n- chore: 버전 자동 증가 (1.60 → 1.61)\n- feat: 미리보기 정리 — 3x1 가운데 정렬·30% 확대·여백 축소, 1x1 격자 배경 제거·요약 위젯#1\n- chore: 버전 자동 증가 (1.59 → 1.60)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.69-38701b57.apk",
+  "apkSize": 20245667,
+  "sha256": "38701b571502ad9dc872534957c7211a4ebcab4038c3415cddbebd1790d9d986",
+  "publishedAt": "2026-10-29T06:49:09.711096Z"
 }
