@@ -1,10 +1,10 @@
 {
-  "versionCode": 185,
-  "versionName": "1.85",
-  "tag": "v1.85",
-  "notes": "데이터 위젯 1.85 (v1.85)\n\n- chore: 버전 자동 증가 (1.84 → 1.85)\n- fix: 진단 문자열의 $_nuxt 템플릿 오류 수정\n- chore: 버전 자동 증가 (1.83 → 1.84)\n- fix: SNS 네이티브 로그인 후 사용량 페이지가 /login 으로 튕기는 문제\n- chore: 버전 자동 증가 (1.82 → 1.83)\n- docs: 2026-10-30 네이티브 로그인 CI 결과 반영 (v1.82)\n- chore: 버전 자동 증가 (1.81 → 1.82)\n- fix: 네이티브 로그인 컴파일 오류 2건\n- chore: 버전 자동 증가 (1.80 → 1.81)\n- feat: SNS 로그인 콜백 코드 교환을 네이티브(OkHttp)로 전환\n- chore: 버전 자동 증가 (1.79 → 1.80)\n- diag: 콜백 페이지가 멈출 때를 위한 임시 우회 + 리다이렉트/스크립트 상태 계측\n- chore: 버전 자동 증가 (1.78 → 1.79)\n- diag: 콜백 화면 지연 본문 / Kakao redirect_uri / 사이트 alert 수집 (임시)\n- chore: 버전 자동 증가 (1.77 → 1.78)\n- fix: WebResourceResponse 는 InputStream 을 받는다 (컴파일 오류 수정)\n- chore: 버전 자동 증가 (1.76 → 1.77)\n- fix: SNS 로그인 코드 교환을 방해하던 5초 재로드 제거 + 실패 사유 계측\n- chore: 버전 자동 증가 (1.75 → 1.76)\n- diag: 로그인 진단 로그 잡음 축소 + 실패 사유 수집 (임시)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.85-6fee82e0.apk",
+  "versionCode": 186,
+  "versionName": "1.86",
+  "tag": "v1.86",
+  "notes": "데이터 위젯 1.86 (v1.86)\n\n- chore: 버전 자동 증가 (1.85 → 1.86)\n- docs: 2026-10-30 후속 수정(auth 저장·쿠키 대기·콜백 캐시) 결과 기록\n- chore: 버전 자동 증가 (1.84 → 1.85)\n- fix: 진단 문자열의 $_nuxt 템플릿 오류 수정\n- chore: 버전 자동 증가 (1.83 → 1.84)\n- fix: SNS 네이티브 로그인 후 사용량 페이지가 /login 으로 튕기는 문제\n- chore: 버전 자동 증가 (1.82 → 1.83)\n- docs: 2026-10-30 네이티브 로그인 CI 결과 반영 (v1.82)\n- chore: 버전 자동 증가 (1.81 → 1.82)\n- fix: 네이티브 로그인 컴파일 오류 2건\n- chore: 버전 자동 증가 (1.80 → 1.81)\n- feat: SNS 로그인 콜백 코드 교환을 네이티브(OkHttp)로 전환\n- chore: 버전 자동 증가 (1.79 → 1.80)\n- diag: 콜백 페이지가 멈출 때를 위한 임시 우회 + 리다이렉트/스크립트 상태 계측\n- chore: 버전 자동 증가 (1.78 → 1.79)\n- diag: 콜백 화면 지연 본문 / Kakao redirect_uri / 사이트 alert 수집 (임시)\n- chore: 버전 자동 증가 (1.77 → 1.78)\n- fix: WebResourceResponse 는 InputStream 을 받는다 (컴파일 오류 수정)\n- chore: 버전 자동 증가 (1.76 → 1.77)\n- fix: SNS 로그인 코드 교환을 방해하던 5초 재로드 제거 + 실패 사유 계측",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.86-2f4ea4b0.apk",
   "apkSize": 20354037,
-  "sha256": "6fee82e0add4c43f505e9777aa2d5c51d9373f006b06150213c3ab3c63cee5be",
-  "publishedAt": "2026-10-30T04:47:37.234282Z"
+  "sha256": "2f4ea4b0ba55098041d7bddde7b0cbaca09e6b00376e217537b4ef4a573d37f5",
+  "publishedAt": "2026-10-30T04:51:22.199540Z"
 }
