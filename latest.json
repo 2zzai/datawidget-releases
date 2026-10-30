@@ -1,10 +1,10 @@
 {
-  "versionCode": 175,
-  "versionName": "1.75",
-  "tag": "v1.75",
-  "notes": "데이터 위젯 1.75 (v1.75)\n\n- chore: 버전 자동 증가 (1.74 → 1.75)\n- fix: 로그인 콜백 경로 변경(OAuthCallback) 대응 + 앞 화면 로그인에서 SNS 자동 클릭 중단\n- chore: 버전 자동 증가 (1.73 → 1.74)\n- diag: 로그인 루프 원인 추적용 진단 로그 추가 (임시)\n- chore: 버전 자동 증가 (1.72 → 1.73)\n- feat: 테마 추천 확장 · 갱신 중 물결 · 글자 규격(AppDims) · ★ 내 테마\n- chore: 버전 자동 증가 (1.71 → 1.72)\n- debug: 테스트/디버그를 '기타' 아래 접기 가능 섹션으로 이동, 로그인기록·데이터사용량도 함께 이동\n- chore: 버전 자동 증가 (1.70 → 1.71)\n- debug: fix tick reassignment error\n- chore: 버전 자동 증가 (1.69 → 1.70)\n- debug: 설정 화면에 테스트 스위치 추가 (다중 버킷 강제 / 갱신 중 강제)\n- chore: 버전 자동 증가 (1.68 → 1.69)\n- fix: WidgetStore nullable total in String.format\n- chore: 버전 자동 증가 (1.67 → 1.68)\n- feat: 특수 요금제 데이터 항목 표시 + 위젯 표시 항목 선택\n- chore: 버전 자동 증가 (1.66 → 1.67)\n- ui: 홈 카드 제목 '데이터' 통일 + 남은 일수, 테마 선택 가운데 정렬, 상단 여백 축소\n- chore: 버전 자동 증가 (1.65 → 1.66)\n- ui: 위젯 수정 화면 하단 저장 바를 내비게이션 바에 붙임",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.75-c290827b.apk",
-  "apkSize": 20321269,
-  "sha256": "c290827b68eb7bb3c65b6682688caf1ad8701fa8d736e577b64a96c9bcb8cbdd",
-  "publishedAt": "2026-10-30T01:25:44.799531Z"
+  "versionCode": 176,
+  "versionName": "1.76",
+  "tag": "v1.76",
+  "notes": "데이터 위젯 1.76 (v1.76)\n\n- chore: 버전 자동 증가 (1.75 → 1.76)\n- diag: 로그인 진단 로그 잡음 축소 + 실패 사유 수집 (임시)\n- chore: 버전 자동 증가 (1.74 → 1.75)\n- fix: 로그인 콜백 경로 변경(OAuthCallback) 대응 + 앞 화면 로그인에서 SNS 자동 클릭 중단\n- chore: 버전 자동 증가 (1.73 → 1.74)\n- diag: 로그인 루프 원인 추적용 진단 로그 추가 (임시)\n- chore: 버전 자동 증가 (1.72 → 1.73)\n- feat: 테마 추천 확장 · 갱신 중 물결 · 글자 규격(AppDims) · ★ 내 테마\n- chore: 버전 자동 증가 (1.71 → 1.72)\n- debug: 테스트/디버그를 '기타' 아래 접기 가능 섹션으로 이동, 로그인기록·데이터사용량도 함께 이동\n- chore: 버전 자동 증가 (1.70 → 1.71)\n- debug: fix tick reassignment error\n- chore: 버전 자동 증가 (1.69 → 1.70)\n- debug: 설정 화면에 테스트 스위치 추가 (다중 버킷 강제 / 갱신 중 강제)\n- chore: 버전 자동 증가 (1.68 → 1.69)\n- fix: WidgetStore nullable total in String.format\n- chore: 버전 자동 증가 (1.67 → 1.68)\n- feat: 특수 요금제 데이터 항목 표시 + 위젯 표시 항목 선택\n- chore: 버전 자동 증가 (1.66 → 1.67)\n- ui: 홈 카드 제목 '데이터' 통일 + 남은 일수, 테마 선택 가운데 정렬, 상단 여백 축소",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.76-9902819c.apk",
+  "apkSize": 20337653,
+  "sha256": "9902819c96156259ecc11b4b89cacf346c5bde6a5bc34664537f2f66531e3dc1",
+  "publishedAt": "2026-10-30T01:38:07.053757Z"
 }
