@@ -1,10 +1,10 @@
 {
-  "versionCode": 180,
-  "versionName": "1.80",
-  "tag": "v1.80",
-  "notes": "데이터 위젯 1.80 (v1.80)\n\n- chore: 버전 자동 증가 (1.79 → 1.80)\n- diag: 콜백 페이지가 멈출 때를 위한 임시 우회 + 리다이렉트/스크립트 상태 계측\n- chore: 버전 자동 증가 (1.78 → 1.79)\n- diag: 콜백 화면 지연 본문 / Kakao redirect_uri / 사이트 alert 수집 (임시)\n- chore: 버전 자동 증가 (1.77 → 1.78)\n- fix: WebResourceResponse 는 InputStream 을 받는다 (컴파일 오류 수정)\n- chore: 버전 자동 증가 (1.76 → 1.77)\n- fix: SNS 로그인 코드 교환을 방해하던 5초 재로드 제거 + 실패 사유 계측\n- chore: 버전 자동 증가 (1.75 → 1.76)\n- diag: 로그인 진단 로그 잡음 축소 + 실패 사유 수집 (임시)\n- chore: 버전 자동 증가 (1.74 → 1.75)\n- fix: 로그인 콜백 경로 변경(OAuthCallback) 대응 + 앞 화면 로그인에서 SNS 자동 클릭 중단\n- chore: 버전 자동 증가 (1.73 → 1.74)\n- diag: 로그인 루프 원인 추적용 진단 로그 추가 (임시)\n- chore: 버전 자동 증가 (1.72 → 1.73)\n- feat: 테마 추천 확장 · 갱신 중 물결 · 글자 규격(AppDims) · ★ 내 테마\n- chore: 버전 자동 증가 (1.71 → 1.72)\n- debug: 테스트/디버그를 '기타' 아래 접기 가능 섹션으로 이동, 로그인기록·데이터사용량도 함께 이동\n- chore: 버전 자동 증가 (1.70 → 1.71)\n- debug: fix tick reassignment error",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.80-00299bdf.apk",
-  "apkSize": 20337653,
-  "sha256": "00299bdf41d6c58f8299cd212c58ca5695b9982d3aa7ec2438bb42fb657fde23",
-  "publishedAt": "2026-10-30T02:27:03.231134Z"
+  "versionCode": 182,
+  "versionName": "1.82",
+  "tag": "v1.82",
+  "notes": "데이터 위젯 1.82 (v1.82)\n\n- chore: 버전 자동 증가 (1.81 → 1.82)\n- fix: 네이티브 로그인 컴파일 오류 2건\n- chore: 버전 자동 증가 (1.80 → 1.81)\n- feat: SNS 로그인 콜백 코드 교환을 네이티브(OkHttp)로 전환\n- chore: 버전 자동 증가 (1.79 → 1.80)\n- diag: 콜백 페이지가 멈출 때를 위한 임시 우회 + 리다이렉트/스크립트 상태 계측\n- chore: 버전 자동 증가 (1.78 → 1.79)\n- diag: 콜백 화면 지연 본문 / Kakao redirect_uri / 사이트 alert 수집 (임시)\n- chore: 버전 자동 증가 (1.77 → 1.78)\n- fix: WebResourceResponse 는 InputStream 을 받는다 (컴파일 오류 수정)\n- chore: 버전 자동 증가 (1.76 → 1.77)\n- fix: SNS 로그인 코드 교환을 방해하던 5초 재로드 제거 + 실패 사유 계측\n- chore: 버전 자동 증가 (1.75 → 1.76)\n- diag: 로그인 진단 로그 잡음 축소 + 실패 사유 수집 (임시)\n- chore: 버전 자동 증가 (1.74 → 1.75)\n- fix: 로그인 콜백 경로 변경(OAuthCallback) 대응 + 앞 화면 로그인에서 SNS 자동 클릭 중단\n- chore: 버전 자동 증가 (1.73 → 1.74)\n- diag: 로그인 루프 원인 추적용 진단 로그 추가 (임시)\n- chore: 버전 자동 증가 (1.72 → 1.73)\n- feat: 테마 추천 확장 · 갱신 중 물결 · 글자 규격(AppDims) · ★ 내 테마",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.82-919f790d.apk",
+  "apkSize": 20354037,
+  "sha256": "919f790d50552298d2ff895e61db0abe86fdf35181c9cceb5849945d2c00d9ca",
+  "publishedAt": "2026-10-30T04:04:05.899141Z"
 }
