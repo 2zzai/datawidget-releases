@@ -1,10 +1,10 @@
 {
-  "versionCode": 187,
-  "versionName": "1.87",
-  "tag": "v1.87",
-  "notes": "데이터 위젯 1.87 (v1.87)\n\n- chore: 버전 자동 증가 (1.86 → 1.87)\n- feat(widget): 물결→회전링 교체 (12프레임, 60ms, 연한 회색+그림자)\n- chore: 버전 자동 증가 (1.85 → 1.86)\n- docs: 2026-10-30 후속 수정(auth 저장·쿠키 대기·콜백 캐시) 결과 기록\n- chore: 버전 자동 증가 (1.84 → 1.85)\n- fix: 진단 문자열의 $_nuxt 템플릿 오류 수정\n- chore: 버전 자동 증가 (1.83 → 1.84)\n- fix: SNS 네이티브 로그인 후 사용량 페이지가 /login 으로 튕기는 문제\n- chore: 버전 자동 증가 (1.82 → 1.83)\n- docs: 2026-10-30 네이티브 로그인 CI 결과 반영 (v1.82)\n- chore: 버전 자동 증가 (1.81 → 1.82)\n- fix: 네이티브 로그인 컴파일 오류 2건\n- chore: 버전 자동 증가 (1.80 → 1.81)\n- feat: SNS 로그인 콜백 코드 교환을 네이티브(OkHttp)로 전환\n- chore: 버전 자동 증가 (1.79 → 1.80)\n- diag: 콜백 페이지가 멈출 때를 위한 임시 우회 + 리다이렉트/스크립트 상태 계측\n- chore: 버전 자동 증가 (1.78 → 1.79)\n- diag: 콜백 화면 지연 본문 / Kakao redirect_uri / 사이트 alert 수집 (임시)\n- chore: 버전 자동 증가 (1.77 → 1.78)\n- fix: WebResourceResponse 는 InputStream 을 받는다 (컴파일 오류 수정)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.87-b863f831.apk",
+  "versionCode": 193,
+  "versionName": "1.93",
+  "tag": "v1.93",
+  "notes": "데이터 위젯 1.93 (v1.93)\n\n- chore: 버전 자동 증가 (1.92 → 1.93)\n- fix: Icons.Rounded.Refresh 사용 (Filled 미지원)\n- chore: 버전 자동 증가 (1.91 → 1.92)\n- fix: Icons.Filled.Refresh 사용으로 변경 (import alias 제거)\n- chore: 버전 자동 증가 (1.90 → 1.91)\n- ci: rebuild trigger (fix Icons.Filled.Refresh import)\n- chore: 버전 자동 증가 (1.89 → 1.90)\n- fix(widget): 4x1 테마추천 설명 텍스트 축약 (1x1과 동일하게) - '밝은 · 컬러 · 어두운 계열에서 하나씩 (새로고침 → 다른 조합)' → '밝은 · 컬러 · 어두운 계열'\n- chore: 버전 자동 증가 (1.88 → 1.89)\n- fix(widget): 테마추천 설명 텍스트 축약 (공간 부족으로 잘림 방지)\n- chore: 버전 자동 증가 (1.87 → 1.88)\n- fix(widget): 테마추천 설명 2줄 허용 + 새로고침 버튼 가시성 개선\n- chore: 버전 자동 증가 (1.86 → 1.87)\n- feat(widget): 물결→회전링 교체 (12프레임, 60ms, 연한 회색+그림자)\n- chore: 버전 자동 증가 (1.85 → 1.86)\n- docs: 2026-10-30 후속 수정(auth 저장·쿠키 대기·콜백 캐시) 결과 기록\n- chore: 버전 자동 증가 (1.84 → 1.85)\n- fix: 진단 문자열의 $_nuxt 템플릿 오류 수정\n- chore: 버전 자동 증가 (1.83 → 1.84)\n- fix: SNS 네이티브 로그인 후 사용량 페이지가 /login 으로 튕기는 문제",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.93-0c58b9bf.apk",
   "apkSize": 20362701,
-  "sha256": "b863f831d383f91782d62320c16515e66865fecff9e55afc5ca65afbd303d893",
-  "publishedAt": "2026-10-30T05:58:36.198313Z"
+  "sha256": "0c58b9bf30e2de49ef3be564c5d7a18abd1e2b2b30a930cfad090a84089ad19a",
+  "publishedAt": "2026-10-30T11:31:03.013420Z"
 }
