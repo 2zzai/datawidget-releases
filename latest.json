@@ -1,10 +1,10 @@
 {
-  "versionCode": 195,
-  "versionName": "1.95",
-  "tag": "v1.95",
-  "notes": "데이터 위젯 1.95 (v1.95)\n\n- chore: 버전 자동 증가 (1.94 → 1.95)\n- feat: 홈 3테마 통화 영역을 전체 폭 카드로 개편 (영상/부가통화 분리)\n- chore: 버전 자동 증가 (1.93 → 1.94)\n- feat: 영상/부가통화 표시 (홈 3테마 + 사용량 화면)\n- chore: 버전 자동 증가 (1.92 → 1.93)\n- fix: Icons.Rounded.Refresh 사용 (Filled 미지원)\n- chore: 버전 자동 증가 (1.91 → 1.92)\n- fix: Icons.Filled.Refresh 사용으로 변경 (import alias 제거)\n- chore: 버전 자동 증가 (1.90 → 1.91)\n- ci: rebuild trigger (fix Icons.Filled.Refresh import)\n- chore: 버전 자동 증가 (1.89 → 1.90)\n- fix(widget): 4x1 테마추천 설명 텍스트 축약 (1x1과 동일하게) - '밝은 · 컬러 · 어두운 계열에서 하나씩 (새로고침 → 다른 조합)' → '밝은 · 컬러 · 어두운 계열'\n- chore: 버전 자동 증가 (1.88 → 1.89)\n- fix(widget): 테마추천 설명 텍스트 축약 (공간 부족으로 잘림 방지)\n- chore: 버전 자동 증가 (1.87 → 1.88)\n- fix(widget): 테마추천 설명 2줄 허용 + 새로고침 버튼 가시성 개선\n- chore: 버전 자동 증가 (1.86 → 1.87)\n- feat(widget): 물결→회전링 교체 (12프레임, 60ms, 연한 회색+그림자)\n- chore: 버전 자동 증가 (1.85 → 1.86)\n- docs: 2026-10-30 후속 수정(auth 저장·쿠키 대기·콜백 캐시) 결과 기록",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.95-68bb1f18.apk",
+  "versionCode": 196,
+  "versionName": "1.96",
+  "tag": "v1.96",
+  "notes": "데이터 위젯 1.96 (v1.96)\n\n- chore: 버전 자동 증가 (1.95 → 1.96)\n- refactor: MainActivity 분할 (AppRoot·CommonUi·Dialogs·HomeData·Settings 등 10개 파일)\n- chore: 버전 자동 증가 (1.94 → 1.95)\n- feat: 홈 3테마 통화 영역을 전체 폭 카드로 개편 (영상/부가통화 분리)\n- chore: 버전 자동 증가 (1.93 → 1.94)\n- feat: 영상/부가통화 표시 (홈 3테마 + 사용량 화면)\n- chore: 버전 자동 증가 (1.92 → 1.93)\n- fix: Icons.Rounded.Refresh 사용 (Filled 미지원)\n- chore: 버전 자동 증가 (1.91 → 1.92)\n- fix: Icons.Filled.Refresh 사용으로 변경 (import alias 제거)\n- chore: 버전 자동 증가 (1.90 → 1.91)\n- ci: rebuild trigger (fix Icons.Filled.Refresh import)\n- chore: 버전 자동 증가 (1.89 → 1.90)\n- fix(widget): 4x1 테마추천 설명 텍스트 축약 (1x1과 동일하게) - '밝은 · 컬러 · 어두운 계열에서 하나씩 (새로고침 → 다른 조합)' → '밝은 · 컬러 · 어두운 계열'\n- chore: 버전 자동 증가 (1.88 → 1.89)\n- fix(widget): 테마추천 설명 텍스트 축약 (공간 부족으로 잘림 방지)\n- chore: 버전 자동 증가 (1.87 → 1.88)\n- fix(widget): 테마추천 설명 2줄 허용 + 새로고침 버튼 가시성 개선\n- chore: 버전 자동 증가 (1.86 → 1.87)\n- feat(widget): 물결→회전링 교체 (12프레임, 60ms, 연한 회색+그림자)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.96-9ab560c6.apk",
   "apkSize": 20379085,
-  "sha256": "68bb1f18d215e61b43292a86c444d7a3ba6674be62f5cf4f4c22ddd38e546155",
-  "publishedAt": "2026-10-31T13:06:49.892464Z"
+  "sha256": "9ab560c6c003f77ee1e35231d16403f8c0246946feafbaa5b7b9867bbec370c5",
+  "publishedAt": "2026-10-31T21:16:22.786883Z"
 }
