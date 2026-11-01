@@ -1,10 +1,10 @@
 {
-  "versionCode": 197,
-  "versionName": "1.97",
-  "tag": "v1.97",
-  "notes": "데이터 위젯 1.97 (v1.97)\n\n- chore: 버전 자동 증가 (1.96 → 1.97)\n- 아이콘·이름 개편: 벚꽃(데이터 물결) 앱 아이콘 + 앱 이름 '데이터 봄' + 홈 상단 중앙 마크\n- chore: 버전 자동 증가 (1.95 → 1.96)\n- refactor: MainActivity 분할 (AppRoot·CommonUi·Dialogs·HomeData·Settings 등 10개 파일)\n- chore: 버전 자동 증가 (1.94 → 1.95)\n- feat: 홈 3테마 통화 영역을 전체 폭 카드로 개편 (영상/부가통화 분리)\n- chore: 버전 자동 증가 (1.93 → 1.94)\n- feat: 영상/부가통화 표시 (홈 3테마 + 사용량 화면)\n- chore: 버전 자동 증가 (1.92 → 1.93)\n- fix: Icons.Rounded.Refresh 사용 (Filled 미지원)\n- chore: 버전 자동 증가 (1.91 → 1.92)\n- fix: Icons.Filled.Refresh 사용으로 변경 (import alias 제거)\n- chore: 버전 자동 증가 (1.90 → 1.91)\n- ci: rebuild trigger (fix Icons.Filled.Refresh import)\n- chore: 버전 자동 증가 (1.89 → 1.90)\n- fix(widget): 4x1 테마추천 설명 텍스트 축약 (1x1과 동일하게) - '밝은 · 컬러 · 어두운 계열에서 하나씩 (새로고침 → 다른 조합)' → '밝은 · 컬러 · 어두운 계열'\n- chore: 버전 자동 증가 (1.88 → 1.89)\n- fix(widget): 테마추천 설명 텍스트 축약 (공간 부족으로 잘림 방지)\n- chore: 버전 자동 증가 (1.87 → 1.88)\n- fix(widget): 테마추천 설명 2줄 허용 + 새로고침 버튼 가시성 개선",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.97-4fa7c276.apk",
-  "apkSize": 20666225,
-  "sha256": "4fa7c276ad2fe18f15949115f365efae1b3a1ff8b56c728ca19587d40b487360",
-  "publishedAt": "2026-11-01T12:34:02.421587Z"
+  "versionCode": 198,
+  "versionName": "1.98",
+  "tag": "v1.98",
+  "notes": "데이터 위젯 1.98 (v1.98)\n\n- chore: 버전 자동 증가 (1.97 → 1.98)\n- feat: 앱 자동 업데이트를 PackageInstaller 세션 설치로 전환 (무음 설치 + 결과 수신자)\n- chore: 버전 자동 증가 (1.96 → 1.97)\n- 아이콘·이름 개편: 벚꽃(데이터 물결) 앱 아이콘 + 앱 이름 '데이터 봄' + 홈 상단 중앙 마크\n- chore: 버전 자동 증가 (1.95 → 1.96)\n- refactor: MainActivity 분할 (AppRoot·CommonUi·Dialogs·HomeData·Settings 등 10개 파일)\n- chore: 버전 자동 증가 (1.94 → 1.95)\n- feat: 홈 3테마 통화 영역을 전체 폭 카드로 개편 (영상/부가통화 분리)\n- chore: 버전 자동 증가 (1.93 → 1.94)\n- feat: 영상/부가통화 표시 (홈 3테마 + 사용량 화면)\n- chore: 버전 자동 증가 (1.92 → 1.93)\n- fix: Icons.Rounded.Refresh 사용 (Filled 미지원)\n- chore: 버전 자동 증가 (1.91 → 1.92)\n- fix: Icons.Filled.Refresh 사용으로 변경 (import alias 제거)\n- chore: 버전 자동 증가 (1.90 → 1.91)\n- ci: rebuild trigger (fix Icons.Filled.Refresh import)\n- chore: 버전 자동 증가 (1.89 → 1.90)\n- fix(widget): 4x1 테마추천 설명 텍스트 축약 (1x1과 동일하게) - '밝은 · 컬러 · 어두운 계열에서 하나씩 (새로고침 → 다른 조합)' → '밝은 · 컬러 · 어두운 계열'\n- chore: 버전 자동 증가 (1.88 → 1.89)\n- fix(widget): 테마추천 설명 텍스트 축약 (공간 부족으로 잘림 방지)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.98-0b919325.apk",
+  "apkSize": 20666249,
+  "sha256": "0b919325fb7610ce5149efbde74dc2760c6a45e0487e0a4cc04423caef3cc911",
+  "publishedAt": "2026-11-01T12:58:03.106326Z"
 }
