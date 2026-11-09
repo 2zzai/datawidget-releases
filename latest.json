@@ -1,10 +1,10 @@
 {
-  "versionCode": 208,
-  "versionName": "1.108",
-  "tag": "v1.108",
-  "notes": "데이터 위젯 1.108 (v1.108)\n\n- chore: 버전 자동 증가 (1.107 → 1.108)\n- docs: 설정 데이터 섹션 이동 반영 (v1.107 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)\n- chore: 버전 자동 증가 (1.101 → 1.102)\n- feat: 앱 업데이트 후 자동 열기 + 실패 시 '눌러서 열기' 알림\n- chore: 버전 자동 증가 (1.100 → 1.101)\n- feat: 업데이트 설치 완료 팝업 (재시작 후 첫 실행에서 버전 변경 감지 시 표시)\n- chore: 버전 자동 증가 (1.99 → 1.100)\n- fix: nativeCanvas 임포트 누락 (컴파일 오류)\n- chore: 버전 자동 증가 (1.98 → 1.99)\n- feat: 자동갱신 시간대 눈금 바 + 테마 미리보기 미니카드 최신 반영",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.108-4f8c8081.apk",
-  "apkSize": 20671773,
-  "sha256": "4f8c80815141ab2396015c6c2e58cb0eaf00d97a9360eace22af7b8e29fd652e",
-  "publishedAt": "2026-11-09T06:46:03.419974Z"
+  "versionCode": 209,
+  "versionName": "1.109",
+  "tag": "v1.109",
+  "notes": "데이터 위젯 1.109 (v1.109)\n\n- chore: 버전 자동 증가 (1.108 → 1.109)\n- fix: 데이터 절약 스위치 문구를 켜짐/꺼짐 상태별로 분명히 안내\n- chore: 버전 자동 증가 (1.107 → 1.108)\n- docs: 설정 데이터 섹션 이동 반영 (v1.107 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)\n- chore: 버전 자동 증가 (1.101 → 1.102)\n- feat: 앱 업데이트 후 자동 열기 + 실패 시 '눌러서 열기' 알림\n- chore: 버전 자동 증가 (1.100 → 1.101)\n- feat: 업데이트 설치 완료 팝업 (재시작 후 첫 실행에서 버전 변경 감지 시 표시)\n- chore: 버전 자동 증가 (1.99 → 1.100)\n- fix: nativeCanvas 임포트 누락 (컴파일 오류)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.109-ccb6840e.apk",
+  "apkSize": 20671769,
+  "sha256": "ccb6840e4e0e91218a7e82a18e71dd8acbca18ebe5f23d64fab04e5951a15034",
+  "publishedAt": "2026-11-09T07:25:45.884452Z"
 }
