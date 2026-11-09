@@ -1,10 +1,10 @@
 {
-  "versionCode": 206,
-  "versionName": "1.106",
-  "tag": "v1.106",
-  "notes": "데이터 위젯 1.106 (v1.106)\n\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)\n- chore: 버전 자동 증가 (1.101 → 1.102)\n- feat: 앱 업데이트 후 자동 열기 + 실패 시 '눌러서 열기' 알림\n- chore: 버전 자동 증가 (1.100 → 1.101)\n- feat: 업데이트 설치 완료 팝업 (재시작 후 첫 실행에서 버전 변경 감지 시 표시)\n- chore: 버전 자동 증가 (1.99 → 1.100)\n- fix: nativeCanvas 임포트 누락 (컴파일 오류)\n- chore: 버전 자동 증가 (1.98 → 1.99)\n- feat: 자동갱신 시간대 눈금 바 + 테마 미리보기 미니카드 최신 반영\n- chore: 버전 자동 증가 (1.97 → 1.98)\n- feat: 앱 자동 업데이트를 PackageInstaller 세션 설치로 전환 (무음 설치 + 결과 수신자)\n- chore: 버전 자동 증가 (1.96 → 1.97)\n- 아이콘·이름 개편: 벚꽃(데이터 물결) 앱 아이콘 + 앱 이름 '데이터 봄' + 홈 상단 중앙 마크",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.106-f7e8f50b.apk",
+  "versionCode": 207,
+  "versionName": "1.107",
+  "tag": "v1.107",
+  "notes": "데이터 위젯 1.107 (v1.107)\n\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)\n- chore: 버전 자동 증가 (1.101 → 1.102)\n- feat: 앱 업데이트 후 자동 열기 + 실패 시 '눌러서 열기' 알림\n- chore: 버전 자동 증가 (1.100 → 1.101)\n- feat: 업데이트 설치 완료 팝업 (재시작 후 첫 실행에서 버전 변경 감지 시 표시)\n- chore: 버전 자동 증가 (1.99 → 1.100)\n- fix: nativeCanvas 임포트 누락 (컴파일 오류)\n- chore: 버전 자동 증가 (1.98 → 1.99)\n- feat: 자동갱신 시간대 눈금 바 + 테마 미리보기 미니카드 최신 반영\n- chore: 버전 자동 증가 (1.97 → 1.98)\n- feat: 앱 자동 업데이트를 PackageInstaller 세션 설치로 전환 (무음 설치 + 결과 수신자)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.107-df563d21.apk",
   "apkSize": 20671773,
-  "sha256": "f7e8f50bca79eb7f966f2df65682ee66e1b97cdf0d5b10b251462c78e28ee3a6",
-  "publishedAt": "2026-11-06T06:36:47.534164Z"
+  "sha256": "df563d21253fd8afe875eeb9539c85a81956c9dd1f223f9764fba81a18009b67",
+  "publishedAt": "2026-11-09T06:39:43.201226Z"
 }
