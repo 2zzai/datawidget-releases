@@ -1,10 +1,10 @@
 {
-  "versionCode": 211,
-  "versionName": "1.111",
-  "tag": "v1.111",
-  "notes": "데이터 위젯 1.111 (v1.111)\n\n- chore: 버전 자동 증가 (1.110 → 1.111)\n- feat: Wi-Fi 연결 시 시간대 밖에도 자동 갱신·세션 유지\n- chore: 버전 자동 증가 (1.109 → 1.110)\n- docs: 데이터 절약 문구 보강 반영 (v1.109 CI 성공)\n- chore: 버전 자동 증가 (1.108 → 1.109)\n- fix: 데이터 절약 스위치 문구를 켜짐/꺼짐 상태별로 분명히 안내\n- chore: 버전 자동 증가 (1.107 → 1.108)\n- docs: 설정 데이터 섹션 이동 반영 (v1.107 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)\n- chore: 버전 자동 증가 (1.101 → 1.102)\n- feat: 앱 업데이트 후 자동 열기 + 실패 시 '눌러서 열기' 알림",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.111-5f62a0ea.apk",
-  "apkSize": 20688153,
-  "sha256": "5f62a0eaeeccb831c179348c1b6828c7e533b9d0aa56fb8e671dbe5e228f8fab",
-  "publishedAt": "2026-11-09T13:09:59.888290Z"
+  "versionCode": 212,
+  "versionName": "1.112",
+  "tag": "v1.112",
+  "notes": "데이터 위젯 1.112 (v1.112)\n\n- chore: 버전 자동 증가 (1.111 → 1.112)\n- docs: Wi-Fi 시간대 밖 갱신 반영 (v1.111 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.110 → 1.111)\n- feat: Wi-Fi 연결 시 시간대 밖에도 자동 갱신·세션 유지\n- chore: 버전 자동 증가 (1.109 → 1.110)\n- docs: 데이터 절약 문구 보강 반영 (v1.109 CI 성공)\n- chore: 버전 자동 증가 (1.108 → 1.109)\n- fix: 데이터 절약 스위치 문구를 켜짐/꺼짐 상태별로 분명히 안내\n- chore: 버전 자동 증가 (1.107 → 1.108)\n- docs: 설정 데이터 섹션 이동 반영 (v1.107 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동\n- chore: 버전 자동 증가 (1.105 → 1.106)\n- docs: 위젯 탭 물결 화면 제거 반영 (v1.105 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.104 → 1.105)\n- fix: 위젯 탭 물결(갱신 중) 화면 제거 — 필요 시 바로 로그인 화면으로\n- chore: 버전 자동 증가 (1.103 → 1.104)\n- fix: 주석 안의 /* 가 블록 주석을 열어 컴파일이 깨지던 문제\n- chore: 버전 자동 증가 (1.102 → 1.103)\n- fix: 로그인 흰 화면 복구 (옛 HTML 캐시 + 새 빌드 _nuxt 404)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.112-e7cfb182.apk",
+  "apkSize": 20688157,
+  "sha256": "e7cfb182afe720ebb4c6b89fc16875417160aaaef4a468dee6aa3cf2c55353b3",
+  "publishedAt": "2026-11-09T13:14:26.550722Z"
 }
