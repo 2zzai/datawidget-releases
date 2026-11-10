@@ -1,10 +1,10 @@
 {
-  "versionCode": 216,
-  "versionName": "1.116",
-  "tag": "v1.116",
-  "notes": "데이터 위젯 1.116 (v1.116)\n\n- chore: 버전 자동 증가 (1.115 → 1.116)\n- docs: 2026-11-10 CI 성공 결과 반영 (v1.115 · run 42745770228) [skip ci]\n- chore: 버전 자동 증가 (1.114 → 1.115)\n- test: 자동 갱신 종료 시각 경계 기대값 수정 (18:00 포함, 18:59 제외)\n- chore: 버전 자동 증가 (1.113 → 1.114)\n- fix: 개인정보 다이얼로그 상태를 함수 스코프로 이동 (컴파일 오류)\n- chore: 버전 자동 증가 (1.112 → 1.113)\n- feat: 배포 보안·품질 점검 반영 (키 분리·release 빌드·해시 검증·쿠키 암호화·패키지명 변경)\n- chore: 버전 자동 증가 (1.111 → 1.112)\n- docs: Wi-Fi 시간대 밖 갱신 반영 (v1.111 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.110 → 1.111)\n- feat: Wi-Fi 연결 시 시간대 밖에도 자동 갱신·세션 유지\n- chore: 버전 자동 증가 (1.109 → 1.110)\n- docs: 데이터 절약 문구 보강 반영 (v1.109 CI 성공)\n- chore: 버전 자동 증가 (1.108 → 1.109)\n- fix: 데이터 절약 스위치 문구를 켜짐/꺼짐 상태별로 분명히 안내\n- chore: 버전 자동 증가 (1.107 → 1.108)\n- docs: 설정 데이터 섹션 이동 반영 (v1.107 CI 성공 · 실기기 미확인)\n- chore: 버전 자동 증가 (1.106 → 1.107)\n- feat: 'Wi-Fi에서만 세션 유지·복구' 스위치를 자동 갱신 화면 상단 '데이터' 섹션으로 이동",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.116-b525ad5f.apk",
-  "apkSize": 1923881,
-  "sha256": "b525ad5fe6332e09840f8aa23901ecdce758ccfb0747cf60d28f6de62aaff6b9",
-  "publishedAt": "2026-11-10T03:43:45.585343Z"
+  "versionCode": 217,
+  "versionName": "1.117",
+  "tag": "v1.117",
+  "notes": "데이터 위젯 1.117 (v1.117)\n\n- fix: v1.116 시작 크래시 대응 (release R8 해제 · 크래시 화면 추가)\n  · release 빌드의 R8(코드 최적화)을 껐습니다 — v1.112 와 같은 방식으로 빌드합니다.\n  · 시작 직후 앱이 중지되면 다음 실행에서 오류 내용을 화면에 보여줍니다 (\"오류 내용 복사\" 버튼).\n- docs: v1.116 릴리스 게시 결과 반영\n",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.117-bf32b495.apk",
+  "apkSize": 13538810,
+  "sha256": "bf32b4951d40711864120b3fcdad7b6ae94ca062e9a8d35352470669db2f17f8",
+  "publishedAt": "2026-11-10T04:43:47.422726Z"
 }
