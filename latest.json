@@ -1,10 +1,10 @@
 {
-  "versionCode": 217,
-  "versionName": "1.117",
-  "tag": "v1.117",
-  "notes": "데이터 위젯 1.117 (v1.117)\n\n- fix: v1.116 시작 크래시 대응 (release R8 해제 · 크래시 화면 추가)\n  · release 빌드의 R8(코드 최적화)을 껐습니다 — v1.112 와 같은 방식으로 빌드합니다.\n  · 시작 직후 앱이 중지되면 다음 실행에서 오류 내용을 화면에 보여줍니다 (\"오류 내용 복사\" 버튼).\n- docs: v1.116 릴리스 게시 결과 반영\n",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.117-bf32b495.apk",
-  "apkSize": 13538810,
-  "sha256": "bf32b4951d40711864120b3fcdad7b6ae94ca062e9a8d35352470669db2f17f8",
-  "publishedAt": "2026-11-10T04:43:47.422726Z"
+  "versionCode": 233,
+  "versionName": "1.133",
+  "tag": "v1.133",
+  "notes": "데이터 위젯 1.133 (v1.133)\n\n- chore: 버전 자동 증가 (1.132 → 1.133)\n- chore: 버전 자동 증가 (1.131 → 1.132)\n- fix: 진단 문구 정비 — 첫 화면 전 종료 → 종료 (오류 텍스트 없이도 실제 종료로 처리)\n- chore: 버전 자동 증가 (1.130 → 1.131)\n- docs: R8 조사 종결 — 원인 확정(Room/WorkManager) · R8 영구 끔 · 크래시 진단 기능 기록\n- chore: 버전 자동 증가 (1.129 → 1.130)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.128 → 1.129)\n- fix: R8 최적화 단계도 끔 — Room 이름 찾기 코드가 상수로 접히는 문제 회피 (축소·난독화는 유지)\n- chore: 버전 자동 증가 (1.127 → 1.128)\n- fix: R8 keep 규칙 추가 — Room 이 이름으로 찾는 *_Impl 클래스 보존 (R1 원인 확정)\n- chore: 버전 자동 증가 (1.126 → 1.127)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.125 → 1.126)\n- diag: 시작 최전방 Provider + 크래시 클립보드 자동 복사 + WorkManager 온디맨드 초기화\n- chore: 버전 자동 증가 (1.124 → 1.125)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.123 → 1.124)\n- fix: 진단 화면 지역변수 이름이 TextView.text 를 가려 컴파일 실패하던 문제 (text → report)\n- chore: 버전 자동 증가 (1.122 → 1.123)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.133-7e932ddc.apk",
+  "apkSize": 13538882,
+  "sha256": "7e932ddcf19ac11b4815720585eb5be35500248d190ca50aea17c143dcf6eb46",
+  "publishedAt": "2026-11-10T11:31:20.549862Z"
 }
