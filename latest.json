@@ -1,10 +1,10 @@
 {
-  "versionCode": 233,
-  "versionName": "1.133",
-  "tag": "v1.133",
-  "notes": "데이터 위젯 1.133 (v1.133)\n\n- chore: 버전 자동 증가 (1.132 → 1.133)\n- chore: 버전 자동 증가 (1.131 → 1.132)\n- fix: 진단 문구 정비 — 첫 화면 전 종료 → 종료 (오류 텍스트 없이도 실제 종료로 처리)\n- chore: 버전 자동 증가 (1.130 → 1.131)\n- docs: R8 조사 종결 — 원인 확정(Room/WorkManager) · R8 영구 끔 · 크래시 진단 기능 기록\n- chore: 버전 자동 증가 (1.129 → 1.130)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.128 → 1.129)\n- fix: R8 최적화 단계도 끔 — Room 이름 찾기 코드가 상수로 접히는 문제 회피 (축소·난독화는 유지)\n- chore: 버전 자동 증가 (1.127 → 1.128)\n- fix: R8 keep 규칙 추가 — Room 이 이름으로 찾는 *_Impl 클래스 보존 (R1 원인 확정)\n- chore: 버전 자동 증가 (1.126 → 1.127)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.125 → 1.126)\n- diag: 시작 최전방 Provider + 크래시 클립보드 자동 복사 + WorkManager 온디맨드 초기화\n- chore: 버전 자동 증가 (1.124 → 1.125)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.123 → 1.124)\n- fix: 진단 화면 지역변수 이름이 TextView.text 를 가려 컴파일 실패하던 문제 (text → report)\n- chore: 버전 자동 증가 (1.122 → 1.123)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.133-7e932ddc.apk",
-  "apkSize": 13538882,
-  "sha256": "7e932ddcf19ac11b4815720585eb5be35500248d190ca50aea17c143dcf6eb46",
-  "publishedAt": "2026-11-10T11:31:20.549862Z"
+  "versionCode": 236,
+  "versionName": "1.136",
+  "tag": "v1.136",
+  "notes": "데이터 위젯 1.136 (v1.136)\n\n- chore: 버전 자동 증가 (1.135 → 1.136)\n- chore: 버전 자동 증가 (1.134 → 1.135)\n- docs: 3x1 디자인 7종 · 테마 추천 2종/접기 기록 (CI 42910363746 성공)\n- chore: 버전 자동 증가 (1.133 → 1.134)\n- feat: 3x1 디자인 7종 추가 · 테마 추천 2종 + 나머지 접기\n- chore: 버전 자동 증가 (1.132 → 1.133)\n- chore: 버전 자동 증가 (1.131 → 1.132)\n- fix: 진단 문구 정비 — 첫 화면 전 종료 → 종료 (오류 텍스트 없이도 실제 종료로 처리)\n- chore: 버전 자동 증가 (1.130 → 1.131)\n- docs: R8 조사 종결 — 원인 확정(Room/WorkManager) · R8 영구 끔 · 크래시 진단 기능 기록\n- chore: 버전 자동 증가 (1.129 → 1.130)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.128 → 1.129)\n- fix: R8 최적화 단계도 끔 — Room 이름 찾기 코드가 상수로 접히는 문제 회피 (축소·난독화는 유지)\n- chore: 버전 자동 증가 (1.127 → 1.128)\n- fix: R8 keep 규칙 추가 — Room 이 이름으로 찾는 *_Impl 클래스 보존 (R1 원인 확정)\n- chore: 버전 자동 증가 (1.126 → 1.127)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로\n- chore: 버전 자동 증가 (1.125 → 1.126)\n- diag: 시작 최전방 Provider + 크래시 클립보드 자동 복사 + WorkManager 온디맨드 초기화",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.136-5ec44b20.apk",
+  "apkSize": 13555266,
+  "sha256": "5ec44b2091eafb23a457957843f95d3c6da13255d2697408b15f442a06be4af5",
+  "publishedAt": "2026-11-10T22:21:17.736177Z"
 }
