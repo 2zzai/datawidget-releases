@@ -1,10 +1,10 @@
 {
-  "versionCode": 246,
-  "versionName": "1.146",
-  "tag": "v1.146",
-  "notes": "데이터 위젯 1.146 (v1.146)\n\n- chore: 버전 자동 증가 (1.145 → 1.146)\n- ci: main push 마다 릴리스 자동 게시 (수동 publish 옵션은 유지)\n- chore: 버전 자동 증가 (1.144 → 1.145)\n- docs: 사진 테마 60종 CI 성공(v1.144) · 아티팩트 쿼터 0개 · 릴리스 수동 게시 필요 기록\n- chore: 버전 자동 증가 (1.143 → 1.144)\n- feat: 3x1 사진 테마 60종(자연 30·명소 30) + 글꼴 · 설정에 사진 출처 화면\n- chore: 버전 자동 증가 (1.142 → 1.143)\n- docs: datawidget-releases 옛 APK 98개·태그 84개 정리 기록\n- chore: 버전 자동 증가 (1.141 → 1.142)\n- docs: v1.141 게시·아티팩트 쿼터 대응·저장 공간 정리 기록\n- chore: 버전 자동 증가 (1.140 → 1.141)\n- chore: 버전 자동 증가 (1.139 → 1.140)\n- ci: 아티팩트 쿼터 초과 시에도 릴리스 게시가 진행되게 Upload APK 단계 continue-on-error\n- chore: 버전 자동 증가 (1.138 → 1.139)\n- chore: 버전 자동 증가 (1.137 → 1.138)\n- fix: 앱 시작 시 클립보드 자동 복사·진단 화면 제거\n- chore: 버전 자동 증가 (1.136 → 1.137)\n- docs: v1.136 릴리스 게시 기록 (run 42913050367)\n- chore: 버전 자동 증가 (1.135 → 1.136)\n- chore: 버전 자동 증가 (1.134 → 1.135)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.146-6165cc19.apk",
-  "apkSize": 22026583,
-  "sha256": "6165cc19fcfd0fd6ff35eabea8eb6591ce537e34abb5e508813569ba0c3bbcc3",
-  "publishedAt": "2026-11-18T03:15:25.476385Z"
+  "versionCode": 247,
+  "versionName": "1.147",
+  "tag": "v1.147",
+  "notes": "데이터 위젯 1.147 (v1.147)\n\n- chore: 버전 자동 증가 (1.146 → 1.147)\n- 3x1 디자인 10종 교체: 레트로·파스텔·네온·선셋·골드·크레용 + 전체가 바·바가 테두리\n- chore: 버전 자동 증가 (1.145 → 1.146)\n- ci: main push 마다 릴리스 자동 게시 (수동 publish 옵션은 유지)\n- chore: 버전 자동 증가 (1.144 → 1.145)\n- docs: 사진 테마 60종 CI 성공(v1.144) · 아티팩트 쿼터 0개 · 릴리스 수동 게시 필요 기록\n- chore: 버전 자동 증가 (1.143 → 1.144)\n- feat: 3x1 사진 테마 60종(자연 30·명소 30) + 글꼴 · 설정에 사진 출처 화면\n- chore: 버전 자동 증가 (1.142 → 1.143)\n- docs: datawidget-releases 옛 APK 98개·태그 84개 정리 기록\n- chore: 버전 자동 증가 (1.141 → 1.142)\n- docs: v1.141 게시·아티팩트 쿼터 대응·저장 공간 정리 기록\n- chore: 버전 자동 증가 (1.140 → 1.141)\n- chore: 버전 자동 증가 (1.139 → 1.140)\n- ci: 아티팩트 쿼터 초과 시에도 릴리스 게시가 진행되게 Upload APK 단계 continue-on-error\n- chore: 버전 자동 증가 (1.138 → 1.139)\n- chore: 버전 자동 증가 (1.137 → 1.138)\n- fix: 앱 시작 시 클립보드 자동 복사·진단 화면 제거\n- chore: 버전 자동 증가 (1.136 → 1.137)\n- docs: v1.136 릴리스 게시 기록 (run 42913050367)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.147-6ee4c4a9.apk",
+  "apkSize": 23085516,
+  "sha256": "6ee4c4a9891ff6f3ffa6dce02e99ac3f71e968c577f2307ce153f88f7b9ce65d",
+  "publishedAt": "2026-11-18T07:10:43.676038Z"
 }
