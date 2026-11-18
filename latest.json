@@ -1,10 +1,10 @@
 {
-  "versionCode": 241,
-  "versionName": "1.141",
-  "tag": "v1.141",
-  "notes": "데이터 위젯 1.141 (v1.141)\n\n- chore: 버전 자동 증가 (1.140 → 1.141)\n- chore: 버전 자동 증가 (1.139 → 1.140)\n- ci: 아티팩트 쿼터 초과 시에도 릴리스 게시가 진행되게 Upload APK 단계 continue-on-error\n- chore: 버전 자동 증가 (1.138 → 1.139)\n- chore: 버전 자동 증가 (1.137 → 1.138)\n- fix: 앱 시작 시 클립보드 자동 복사·진단 화면 제거\n- chore: 버전 자동 증가 (1.136 → 1.137)\n- docs: v1.136 릴리스 게시 기록 (run 42913050367)\n- chore: 버전 자동 증가 (1.135 → 1.136)\n- chore: 버전 자동 증가 (1.134 → 1.135)\n- docs: 3x1 디자인 7종 · 테마 추천 2종/접기 기록 (CI 42910363746 성공)\n- chore: 버전 자동 증가 (1.133 → 1.134)\n- feat: 3x1 디자인 7종 추가 · 테마 추천 2종 + 나머지 접기\n- chore: 버전 자동 증가 (1.132 → 1.133)\n- chore: 버전 자동 증가 (1.131 → 1.132)\n- fix: 진단 문구 정비 — 첫 화면 전 종료 → 종료 (오류 텍스트 없이도 실제 종료로 처리)\n- chore: 버전 자동 증가 (1.130 → 1.131)\n- docs: R8 조사 종결 — 원인 확정(Room/WorkManager) · R8 영구 끔 · 크래시 진단 기능 기록\n- chore: 버전 자동 증가 (1.129 → 1.130)\n- ci: R8 진단 빌드 종료 — push 빌드 기본값을 다시 R8 끔으로",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.141-54fc9667.apk",
-  "apkSize": 13555262,
-  "sha256": "54fc9667ee18a7ef4db301fe483e072db2bf9d4db58a0160cd357361def5e8de",
-  "publishedAt": "2026-11-17T02:42:09.428088Z"
+  "versionCode": 246,
+  "versionName": "1.146",
+  "tag": "v1.146",
+  "notes": "데이터 위젯 1.146 (v1.146)\n\n- chore: 버전 자동 증가 (1.145 → 1.146)\n- ci: main push 마다 릴리스 자동 게시 (수동 publish 옵션은 유지)\n- chore: 버전 자동 증가 (1.144 → 1.145)\n- docs: 사진 테마 60종 CI 성공(v1.144) · 아티팩트 쿼터 0개 · 릴리스 수동 게시 필요 기록\n- chore: 버전 자동 증가 (1.143 → 1.144)\n- feat: 3x1 사진 테마 60종(자연 30·명소 30) + 글꼴 · 설정에 사진 출처 화면\n- chore: 버전 자동 증가 (1.142 → 1.143)\n- docs: datawidget-releases 옛 APK 98개·태그 84개 정리 기록\n- chore: 버전 자동 증가 (1.141 → 1.142)\n- docs: v1.141 게시·아티팩트 쿼터 대응·저장 공간 정리 기록\n- chore: 버전 자동 증가 (1.140 → 1.141)\n- chore: 버전 자동 증가 (1.139 → 1.140)\n- ci: 아티팩트 쿼터 초과 시에도 릴리스 게시가 진행되게 Upload APK 단계 continue-on-error\n- chore: 버전 자동 증가 (1.138 → 1.139)\n- chore: 버전 자동 증가 (1.137 → 1.138)\n- fix: 앱 시작 시 클립보드 자동 복사·진단 화면 제거\n- chore: 버전 자동 증가 (1.136 → 1.137)\n- docs: v1.136 릴리스 게시 기록 (run 42913050367)\n- chore: 버전 자동 증가 (1.135 → 1.136)\n- chore: 버전 자동 증가 (1.134 → 1.135)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.146-6165cc19.apk",
+  "apkSize": 22026583,
+  "sha256": "6165cc19fcfd0fd6ff35eabea8eb6591ce537e34abb5e508813569ba0c3bbcc3",
+  "publishedAt": "2026-11-18T03:15:25.476385Z"
 }
