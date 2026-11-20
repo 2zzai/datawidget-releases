@@ -1,10 +1,10 @@
 {
-  "versionCode": 260,
-  "versionName": "1.160",
-  "tag": "v1.160",
-  "notes": "데이터 위젯 1.160 (v1.160)\n\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.160-649045ef.apk",
-  "apkSize": 32205269,
-  "sha256": "649045ef06ede70604c708534ed1cb6c5f2d364043128f90757402684cc5a04e",
-  "publishedAt": "2026-11-20T08:19:19.909303Z"
+  "versionCode": 261,
+  "versionName": "1.161",
+  "tag": "v1.161",
+  "notes": "데이터 위젯 1.161 (v1.161)\n\n- chore: 버전 자동 증가 (1.160 → 1.161)\n- feat: 색조합 60종 팔레트 개편 · 1x1 사진 배경 삭제 · 1x1 테마 추천 3종\n- docs: v1.160 결과 기록 (1x1 사진·글꼴·랜덤 · 색조합 60종 · 바 두께) [skip ci]\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.161-b839c02a.apk",
+  "apkSize": 29955033,
+  "sha256": "b839c02aaf80886352f766e3e326a8e61dd6b100734a42653035ccf953ea74ec",
+  "publishedAt": "2026-11-20T11:23:16.035564Z"
 }
