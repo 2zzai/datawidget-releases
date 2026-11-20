@@ -1,10 +1,10 @@
 {
-  "versionCode": 258,
-  "versionName": "1.158",
-  "tag": "v1.158",
-  "notes": "데이터 위젯 1.158 (v1.158)\n\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]\n- chore: 버전 자동 증가 (1.150 → 1.151)\n- feat: 3x1 위젯을 '기본' 테마 하나로 통합 (배경 60 · 글꼴 30 · 바 50 · 자동 랜덤)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.158-abcdae27.apk",
+  "versionCode": 259,
+  "versionName": "1.159",
+  "tag": "v1.159",
+  "notes": "데이터 위젯 1.159 (v1.159)\n\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.159-bd632e7a.apk",
   "apkSize": 29922265,
-  "sha256": "abcdae2757a2e0190851e2b1e4db01b5ee39de685e7b326206e8f230ac563fda",
-  "publishedAt": "2026-11-20T05:30:10.771978Z"
+  "sha256": "bd632e7a019a6df82b3fcd088825a7288af45dbf6f443d5c534cec3956ad7166",
+  "publishedAt": "2026-11-20T06:22:56.477854Z"
 }
