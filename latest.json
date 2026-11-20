@@ -1,10 +1,10 @@
 {
-  "versionCode": 253,
-  "versionName": "1.153",
-  "tag": "v1.153",
-  "notes": "데이터 위젯 1.153 (v1.153)\n\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]\n- chore: 버전 자동 증가 (1.150 → 1.151)\n- feat: 3x1 위젯을 '기본' 테마 하나로 통합 (배경 60 · 글꼴 30 · 바 50 · 자동 랜덤)\n- docs: v1.150 CI 결과 기록 [skip ci]\n- chore: 버전 자동 증가 (1.149 → 1.150)\n- fix: fiveLines 에 자간(ls) 파라미터 추가 — 컴파일 오류 수정\n- chore: 버전 자동 증가 (1.148 → 1.149)\n- feat: 3x1 이미지 6종 재현 (10종) · 5줄 배치 · 굵은 외곽선 · 한글 글꼴 4종\n- chore: 버전 자동 증가 (1.147 → 1.148)\n- feat: 3x1 디자인 4종 정리 · 사진 유리 카드 · 바 2종 재작업\n- chore: 버전 자동 증가 (1.146 → 1.147)\n- 3x1 디자인 10종 교체: 레트로·파스텔·네온·선셋·골드·크레용 + 전체가 바·바가 테두리\n- chore: 버전 자동 증가 (1.145 → 1.146)\n- ci: main push 마다 릴리스 자동 게시 (수동 publish 옵션은 유지)\n- chore: 버전 자동 증가 (1.144 → 1.145)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.153-202f4e50.apk",
-  "apkSize": 31660013,
-  "sha256": "202f4e507a75e765daa146ccc875c7080127c3c00f3f8ca962a40f9e345188c4",
-  "publishedAt": "2026-11-19T21:26:53.415427Z"
+  "versionCode": 254,
+  "versionName": "1.154",
+  "tag": "v1.154",
+  "notes": "데이터 위젯 1.154 (v1.154)\n\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]\n- chore: 버전 자동 증가 (1.150 → 1.151)\n- feat: 3x1 위젯을 '기본' 테마 하나로 통합 (배경 60 · 글꼴 30 · 바 50 · 자동 랜덤)\n- docs: v1.150 CI 결과 기록 [skip ci]\n- chore: 버전 자동 증가 (1.149 → 1.150)\n- fix: fiveLines 에 자간(ls) 파라미터 추가 — 컴파일 오류 수정\n- chore: 버전 자동 증가 (1.148 → 1.149)\n- feat: 3x1 이미지 6종 재현 (10종) · 5줄 배치 · 굵은 외곽선 · 한글 글꼴 4종\n- chore: 버전 자동 증가 (1.147 → 1.148)\n- feat: 3x1 디자인 4종 정리 · 사진 유리 카드 · 바 2종 재작업\n- chore: 버전 자동 증가 (1.146 → 1.147)\n- 3x1 디자인 10종 교체: 레트로·파스텔·네온·선셋·골드·크레용 + 전체가 바·바가 테두리\n- chore: 버전 자동 증가 (1.145 → 1.146)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.154-85cfd2cf.apk",
+  "apkSize": 29921101,
+  "sha256": "85cfd2cffffb99019be8b61f603b8d96b2efc7fcb2f2c14552e68112399b78f5",
+  "publishedAt": "2026-11-20T01:40:48.047192Z"
 }
