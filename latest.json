@@ -1,10 +1,10 @@
 {
-  "versionCode": 255,
-  "versionName": "1.155",
-  "tag": "v1.155",
-  "notes": "데이터 위젯 1.155 (v1.155)\n\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]\n- chore: 버전 자동 증가 (1.150 → 1.151)\n- feat: 3x1 위젯을 '기본' 테마 하나로 통합 (배경 60 · 글꼴 30 · 바 50 · 자동 랜덤)\n- docs: v1.150 CI 결과 기록 [skip ci]\n- chore: 버전 자동 증가 (1.149 → 1.150)\n- fix: fiveLines 에 자간(ls) 파라미터 추가 — 컴파일 오류 수정\n- chore: 버전 자동 증가 (1.148 → 1.149)\n- feat: 3x1 이미지 6종 재현 (10종) · 5줄 배치 · 굵은 외곽선 · 한글 글꼴 4종\n- chore: 버전 자동 증가 (1.147 → 1.148)\n- feat: 3x1 디자인 4종 정리 · 사진 유리 카드 · 바 2종 재작업\n- chore: 버전 자동 증가 (1.146 → 1.147)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.155-972e4069.apk",
+  "versionCode": 256,
+  "versionName": "1.156",
+  "tag": "v1.156",
+  "notes": "데이터 위젯 1.156 (v1.156)\n\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)\n- fix: 3x1 glass 스타일 정리·바 49종 문서 정정\n- chore: 버전 자동 증가 (1.153 → 1.154)\n- feat: 3x1 사용자 요청 8건 적용\n- chore: 버전 자동 증가 (1.152 → 1.153)\n- feat: 3x1 테마 개선 5건 (글자 위치 · 감성 배경 30 · 색 선택 · 유리 트랙 · 바 49종)\n- docs: v1.152 CI 결과 기록 (3x1 표시 문제 7건) [skip ci]\n- chore: 버전 자동 증가 (1.151 → 1.152)\n- fix: 3x1 표시 문제 7건 수정 (줄 높이·사진 전체 보기·바 56종·하믈레·색 보정)\n- docs: v1.151 CI 결과 기록 (3x1 테마 통합 · 글꼴 30 · 바 50) [skip ci]\n- chore: 버전 자동 증가 (1.150 → 1.151)\n- feat: 3x1 위젯을 '기본' 테마 하나로 통합 (배경 60 · 글꼴 30 · 바 50 · 자동 랜덤)\n- docs: v1.150 CI 결과 기록 [skip ci]\n- chore: 버전 자동 증가 (1.149 → 1.150)\n- fix: fiveLines 에 자간(ls) 파라미터 추가 — 컴파일 오류 수정\n- chore: 버전 자동 증가 (1.148 → 1.149)\n- feat: 3x1 이미지 6종 재현 (10종) · 5줄 배치 · 굵은 외곽선 · 한글 글꼴 4종",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.156-a155b262.apk",
   "apkSize": 29921101,
-  "sha256": "972e4069bd03e671a6a55ff748b4087594cdb6c19b0756e562b1cb60bceab478",
-  "publishedAt": "2026-11-20T02:52:40.926902Z"
+  "sha256": "a155b262dbe3ee97d0f71e323f30eed2a9910199dc8bbf08b74a39326a64c0c1",
+  "publishedAt": "2026-11-20T04:11:47.457493Z"
 }
