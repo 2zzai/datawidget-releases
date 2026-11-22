@@ -1,10 +1,10 @@
 {
-  "versionCode": 263,
-  "versionName": "1.163",
-  "tag": "v1.163",
-  "notes": "데이터 위젯 1.163 (v1.163)\n\n- chore: 버전 자동 증가 (1.162 → 1.163)\n- feat: 1x1·3x1 크기 눈금 통일 · 잉크 기준 균등 간격 · 1x1 값 단위 40%\n- chore: 버전 자동 증가 (1.161 → 1.162)\n- feat: 1x1 글자 위치 조절 · 1x1/3x1 공통 세로 줄 간격\n- chore: 버전 자동 증가 (1.160 → 1.161)\n- feat: 색조합 60종 팔레트 개편 · 1x1 사진 배경 삭제 · 1x1 테마 추천 3종\n- docs: v1.160 결과 기록 (1x1 사진·글꼴·랜덤 · 색조합 60종 · 바 두께) [skip ci]\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI\n- docs: v1.155 CI 결과 기록 (glass 스타일·바 49종)\n- chore: 버전 자동 증가 (1.154 → 1.155)",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.163-4d831301.apk",
+  "versionCode": 264,
+  "versionName": "1.164",
+  "tag": "v1.164",
+  "notes": "데이터 위젯 1.164 (v1.164)\n\n- chore: 버전 자동 증가 (1.163 → 1.164)\n- fix: 1x1 값이 단위 크기로 그려지던 Paint 공유 버그 · 값 잉크 기준 가운데 정렬\n- chore: 버전 자동 증가 (1.162 → 1.163)\n- feat: 1x1·3x1 크기 눈금 통일 · 잉크 기준 균등 간격 · 1x1 값 단위 40%\n- chore: 버전 자동 증가 (1.161 → 1.162)\n- feat: 1x1 글자 위치 조절 · 1x1/3x1 공통 세로 줄 간격\n- chore: 버전 자동 증가 (1.160 → 1.161)\n- feat: 색조합 60종 팔레트 개편 · 1x1 사진 배경 삭제 · 1x1 테마 추천 3종\n- docs: v1.160 결과 기록 (1x1 사진·글꼴·랜덤 · 색조합 60종 · 바 두께) [skip ci]\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]\n- chore: 버전 자동 증가 (1.155 → 1.156)\n- fix: 3x1 미리보기 일치·빈 바 투명도·글자 위치 UI",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.164-2b38f6b4.apk",
   "apkSize": 29971417,
-  "sha256": "4d831301337081e66d5f81e820c6de94ef3e9e7a1a3b74de307bed6ae36191a5",
-  "publishedAt": "2026-11-21T23:00:19.096297Z"
+  "sha256": "2b38f6b45d6441decc07e3e4e62fb07c0379539297ac7ac622b22086f3902244",
+  "publishedAt": "2026-11-22T01:27:32.144286Z"
 }
