@@ -1,10 +1,10 @@
 {
-  "versionCode": 265,
-  "versionName": "1.165",
-  "tag": "v1.165",
-  "notes": "데이터 위젯 1.165 (v1.165)\n\n- chore: 버전 자동 증가 (1.164 → 1.165)\n- feat: 3x1 바 색 그라데이션(2~5색) · 1x1 값 단위 60% · 미리보기 확장 · 마침표 위치 보정\n- chore: 버전 자동 증가 (1.163 → 1.164)\n- fix: 1x1 값이 단위 크기로 그려지던 Paint 공유 버그 · 값 잉크 기준 가운데 정렬\n- chore: 버전 자동 증가 (1.162 → 1.163)\n- feat: 1x1·3x1 크기 눈금 통일 · 잉크 기준 균등 간격 · 1x1 값 단위 40%\n- chore: 버전 자동 증가 (1.161 → 1.162)\n- feat: 1x1 글자 위치 조절 · 1x1/3x1 공통 세로 줄 간격\n- chore: 버전 자동 증가 (1.160 → 1.161)\n- feat: 색조합 60종 팔레트 개편 · 1x1 사진 배경 삭제 · 1x1 테마 추천 3종\n- docs: v1.160 결과 기록 (1x1 사진·글꼴·랜덤 · 색조합 60종 · 바 두께) [skip ci]\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)\n- fix: 디자인 감사 지적 사항 수정 (접근성·대비·테마·미리보기 색)\n- docs: v1.156 결과 기록 (미리보기 일치 · 빈 바 70% 투명 · 글자 위치 UI) [skip ci]",
-  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.165-3a740bda.apk",
+  "versionCode": 266,
+  "versionName": "1.166",
+  "tag": "v1.166",
+  "notes": "데이터 위젯 1.166 (v1.166)\n\n- chore: 버전 자동 증가 (1.165 → 1.166)\n- fix: 1x1 값 크기 슬라이더가 폭 자동 축소에 상쇄되던 문제 · 선택 크기 실제 반영\n- chore: 버전 자동 증가 (1.164 → 1.165)\n- feat: 3x1 바 색 그라데이션(2~5색) · 1x1 값 단위 60% · 미리보기 확장 · 마침표 위치 보정\n- chore: 버전 자동 증가 (1.163 → 1.164)\n- fix: 1x1 값이 단위 크기로 그려지던 Paint 공유 버그 · 값 잉크 기준 가운데 정렬\n- chore: 버전 자동 증가 (1.162 → 1.163)\n- feat: 1x1·3x1 크기 눈금 통일 · 잉크 기준 균등 간격 · 1x1 값 단위 40%\n- chore: 버전 자동 증가 (1.161 → 1.162)\n- feat: 1x1 글자 위치 조절 · 1x1/3x1 공통 세로 줄 간격\n- chore: 버전 자동 증가 (1.160 → 1.161)\n- feat: 색조합 60종 팔레트 개편 · 1x1 사진 배경 삭제 · 1x1 테마 추천 3종\n- docs: v1.160 결과 기록 (1x1 사진·글꼴·랜덤 · 색조합 60종 · 바 두께) [skip ci]\n- chore: 버전 자동 증가 (1.159 → 1.160)\n- feat: 1x1 사진 배경·글꼴·자동 변경 · 색조합 60종 · 바 두께 조정\n- chore: 버전 자동 증가 (1.158 → 1.159)\n- fix: 3x1 미리보기 = 실제 위젯 · 간격 일치 · 설정 화면 단순화\n- chore: 버전 자동 증가 (1.157 → 1.158)\n- fix: LinearGradient.colors 가 internal 이라 컴파일 실패 → 팔레트에 bgSolid 추가\n- chore: 버전 자동 증가 (1.156 → 1.157)",
+  "apkUrl": "https://raw.githubusercontent.com/2zzai/datawidget-releases/main/app/datawidget-v1.166-bb3eba50.apk",
   "apkSize": 29971417,
-  "sha256": "3a740bdab69395d9af710810db9f2a5d0cfc16ac69457cc1a61fe086c92e4d41",
-  "publishedAt": "2026-11-22T08:42:54.982291Z"
+  "sha256": "bb3eba5086d7d200139f0bd993e77547d5999acfd39e4bd37f7a811200e38bfe",
+  "publishedAt": "2026-11-23T00:47:40.693462Z"
 }
